@@ -1,7 +1,7 @@
 ---
 title: "GameBoy 模拟器开发记录"
 date: 2021-05-18T20:32:44+08:00
-categories: ["编程"]
+categories: ["开发"]
 toc:
     enable: true
 ---

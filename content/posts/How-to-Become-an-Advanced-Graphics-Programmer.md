@@ -1,7 +1,6 @@
 ---
 title: "How to Become an Advanced Graphics Programmer"
 date: 2021-05-13T20:02:42+08:00
-tags: ["经验"]
 categories: ["图形"]
 showToc: false
 toc:
