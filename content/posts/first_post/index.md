@@ -6,7 +6,7 @@ showToc: false
 toc:
   enable: false
 tikz: true
-draft: true
+draft: false
 ---
 
 这是第一个帖子^_^。
@@ -24,7 +24,9 @@ draft: true
 {{< /rawhtml >}}
 
 测试公式：
+
 $$ \pi = 1 - \dfrac{1}{3} + \dfrac{1}{5} - \dfrac{1}{7} + \cdots $$
+
 
 {{< tikz >}}  
   \begin{tikzpicture}[cap=round,scale=3.5]
@@ -67,3 +69,54 @@ $$ \pi = 1 - \dfrac{1}{3} + \dfrac{1}{5} - \dfrac{1}{7} + \cdots $$
   \end{tikzpicture}
   
 {{< /tikz >}}
+
+
+测试 iframe:
+
+<iframe id="viewer" name="viewer" allow="fullscreen; xr-spatial-tracking;" src="https://threejs.org//examples/webgl_animation_keyframes.html" style="width:100%; height:100%"></iframe>
+
+
+测试 iframe & tikz:
+
+<pre>
+
+<input type="button" onclick="var iFrame = document.getElementById( 'iFrame1' );resizeIFrameToFitContent( iFrame );"> </input>
+
+<iframe id='iFrame1' src="test.html" scrolling="no" type="text/html" onload="var iFrame = document.getElementById( 'iFrame1' );resizeIFrameToFitContent( iFrame );console.log('done');">
+</iframe>
+
+<script type="application/javascript">
+
+function resizeIFrameToFitContent( iFrame ) {
+
+    iFrame.width  = iFrame.contentWindow.document.body.scrollWidth;
+    iFrame.height = iFrame.contentWindow.document.body.scrollHeight;
+}
+
+/*window.addEventListener('DOMContentLoaded', function(e) {
+
+    var iFrame = document.getElementById( 'iFrame1' );
+    resizeIFrameToFitContent( iFrame );
+} );*/
+var observer = new MutationObserver(function(mutations) {
+    mutations.forEach(function(mutationRecord) {
+        // resizeIFrameToFitContent(mutationRecord.target);
+        console.log(mutationRecord.target);
+    });    
+});
+
+var target = document.getElementById('iFrame1');
+observer.observe(target, { subtree: true, childList: true });
+
+</script>
+
+</pre>
+
+LOL
+
+测试 three js
+<pre>
+<canvas>
+
+</canvas>
+</pre>
