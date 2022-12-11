@@ -1,5 +1,5 @@
 ---
-title: "UE4 MovieRenderPipeline 以及在 Vulkan 下的鬼影问题"
+title: "UE4 MovieRenderPipeline 以及在 Vulkan 下的重影问题"
 date: 2021-10-29T20:03:05+08:00
 categories: ["开发"]
 toc:
