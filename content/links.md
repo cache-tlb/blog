@@ -60,6 +60,7 @@ hiddenFromHomePage: true
 - BabylonJS: [\[Home\]](https://www.babylonjs.com/) | [\[Github\]](https://github.com/BabylonJS/Babylon.js)
 - WebGLStudio.js - 有一个web端游戏引擎: [\[Home\]](https://webglstudio.org/) | [\[Github\]](https://github.com/jagenjo/webglstudio.js)
 - nunuStudio - Web端的引擎: [\[Home\]](https://www.nunustudio.org/) | [\[Github\]](https://github.com/tentone/nunuStudio)
+- Fyrox Game Engine - Rust语言的2D和3D游戏引擎: [\[Home\]](https://fyrox.rs/) | [\[Github\]](https://github.com/FyroxEngine/Fyrox)
 
 ### 渲染
 
@@ -135,6 +136,9 @@ hiddenFromHomePage: true
 - 金庸群侠传3D重制版(Unity): [\[Home\]](http://www.jy-new.com) | [\[Github\]](https://github.com/jynew/jynew)
 - Wolfenstein 3D源代码: [\[Link\]](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
 - Basic Computer Games: [\[Github\]](https://github.com/coding-horror/basic-computer-games) | [\[Book\]](https://annarchive.com/files/Basic_Computer_Games_Microcomputer_Edition.pdf)
+- OpenRCT2 - 过山车大亨2开源实现: [\[Home\]](https://openrct2.org/) | [\[Github\]](https://github.com/OpenRCT2/OpenRCT2) 
+- Caesar III 开源实现: [\[Github\]](https://github.com/bvschaik/julius)
+- fheroes2 - 魔法门之英雄无敌II开源实现: [\[Home\]](https://ihhub.github.io/fheroes2/) | [\[Github\]](https://github.com/ihhub/fheroes2)
 
 #### 模拟器
 - Ryujinx - 使用 C# 编写的 NS 模拟器: [\[Home\]](https://ryujinx.org/) | [\[Github\]](https://github.com/Ryujinx/Ryujinx)
