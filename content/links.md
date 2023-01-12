@@ -51,10 +51,13 @@ hiddenFromHomePage: true
 - Godot: [\[Home\]](https://godotengine.org/) | [\[Github\]](https://github.com/godotengine/godot)
 - Heaps.io - 代表作 Dead Cells, Northgard, Evoland: [\[Home\]](https://heaps.io/) | [\[Github\]](https://github.com/HeapsIO/heaps)
 - Flax Engine: [\[Home\]](https://flaxengine.com/) | [\[Github\]](https://github.com/FlaxEngine/FlaxEngine)
+- Panda3D - 由 Disney 和 CMU 开发的跨平台 Python/C++ 游戏引擎: [\[Home\]](https://www.panda3d.org/) | [\[Github\]](https://github.com/panda3d/panda3d)
 - Stride Game Engine (formerly Xenko): [\[Home\]](https://stride3d.net/) | [\[Github\]](https://github.com/stride3d/stride)
 - Lumix Engine: [\[Github\]](https://github.com/nem0/LumixEngine)
 - Open 3D Engine: [\[Home\]](https://o3de.org/) | [\[Github\]](https://github.com/o3de/o3de)
+- Esoterica: [\[Home\]](https://www.esotericaengine.com/) | [\[Github\]](https://github.com/BobbyAnguelov/Esoterica)
 - Halley - A lightweight game engine written in modern C++: [\[Github\]](https://github.com/amzeratul/halley)
+- SpartanEngine: [\[Github\]](https://github.com/PanosK92/SpartanEngine)
 - Mojoc - 开源, 纯C的手游引擎: [\[Github\]](https://github.com/scottcgi/Mojoc)
 - Rust Game engine 3D: [\[Home\]](https://rg3d.rs/) | [\[Github\]](https://github.com/rg3dengine/rg3d)
 - BabylonJS: [\[Home\]](https://www.babylonjs.com/) | [\[Github\]](https://github.com/BabylonJS/Babylon.js)
@@ -64,14 +67,20 @@ hiddenFromHomePage: true
 
 ### 渲染
 
-#### 开源实时渲染框架
+#### 实时渲染框架
 - bgfx - Football Manager居然也是用 bgfx 做的: [\[Github\]](https://github.com/bkaradzic/bgfx) | [\[Doc\]](https://bkaradzic.github.io/bgfx/)
 - The Forge - Hades 使用的引擎: [\[Home\]](https://theforge.dev/) | [\[Github\]](https://github.com/ConfettiFX/The-Forge)
 - OGRE-next: [\[Github\]](https://github.com/OGRECave/ogre-next) | [\[Doc\]](https://ogrecave.github.io/ogre-next/api/2.2/)
 - OGRE: [\[Home\]](https://ogrecave.github.io/ogre/) | [\[Github\]](https://github.com/OGRECave/ogre)
 - Google Filament - 专为移动端设计的实时 PBR 渲染器, 也支持其他平台: [\[Home\]](https://google.github.io/filament/) | [\[Github\]](https://github.com/google/filament)
+- Magnum - 轻量级、模块化的图形中间件: [\[Home\]](https://magnum.graphics/) | [\[Github\]](https://github.com/mosra/magnum)
 - LÖVE - 带 lua 绑定的 2D 渲染框架: [\[Home\]](https://love2d.org/) | [\[Github\]](https://github.com/love2d/love)
 - Amulet - 带 lua 绑定的渲染框架: [\[Home\]](http://www.amulet.xyz) | [\[Github\]](https://github.com/ianmaclarty/amulet)
+
+#### 实时渲染
+- kajiya - 实时全局光照渲染器，使用混合光栅化、Compute、光线追踪的pipeline: [\[Github\]](https://github.com/EmbarkStudios/kajiya)
+- AirSim - 微软AI研究院为自动驾驶开发的真实世界模拟器，基于UE/Unity: [\[Home\]](https://microsoft.github.io/AirSim/) | [\[Github\]](https://github.com/microsoft/AirSim)
+- Pixi3D - 3D js 渲染器: [\[Home\]](https://pixi3d.org/) | [\[Github\]](https://github.com/jnsmalm/pixi3d)
 
 #### 离线渲染
 - blender: [\[Home\]](https://www.blender.org/) | [\[Github\]](https://github.com/blender/blender)
@@ -84,10 +93,12 @@ hiddenFromHomePage: true
 - tungsten - 诞生于 ETH Image Synthesis 课程项目的离线渲染器: [\[Github\]](https://github.com/tunabrain/tungsten)
 - Apple Seed: [\[Home\]](https://appleseedhq.net/) | [\[Github\]](https://github.com/appleseedhq/appleseed)
 
+
 ### 其他开源项目
 
 #### 物理引擎
 - Taichi - 人人都会的物理模拟: [\[Github\]](https://github.com/taichi-dev/taichi)
+- NVIDIA Warp - 类似 Taichi 的物理模拟工具，使用 python 作为前端: [\[Github\]](https://github.com/NVIDIA/warp) 
 - CHRONO - 支持载具/可变形地形/流体相互交互: [\[Home\]](https://projectchrono.org/) | [\[Github\]](https://github.com/projectchrono/chrono)
 - nphysics - Rust 语言 2D 和 3D 的刚体物理引擎: [\[Home\]](https://nphysics.org/) | [\[Github\]](https://github.com/dimforge/nphysics)
 - Google liquidfun - 基于 Box 2D 的刚体/流体模拟: [\[Home\]](http://google.github.io/liquidfun/) | [\[Github\]](https://github.com/google/liquidfun)
@@ -109,6 +120,7 @@ hiddenFromHomePage: true
 - OpenRA - 红色警戒的开源实现: [\[Home\]](www.openra.net) | [\[Github\]](https://github.com/OpenRA/OpenRA)
 - 基于 OpenRA 的开源尤里的复仇: [\[Github\]](https://github.com/cookgreen/Yuris-Revenge)
 - OpenRCT2 - 开源过山车大亨: [\[Home\]](https://openrct2.io/) | [\[Github\]](https://github.com/OpenRCT2/OpenRCT2)
+- San Andreas Unity - GTA San Andreas 引擎的 Unity 实现: [\[Github\]](https://github.com/GTA-ASM/SanAndreasUnity) | [\[Discord\]](https://discord.gg/p6jjud5)
 - FreeCS - 开源版 CS1.5: [\[SourceForge\]](https://sourceforge.net/projects/freecs-1-5/)
 - devilution- 开源版暗黑破坏神I的引擎, 需要资源文件才能运行: [\[Github\]](https://github.com/diasurgical/devilution) | 改良版 [\[Github\]](https://github.com/diasurgical/devilutionX)
 - freeablo - 开源版暗黑破坏神I的引擎: [\[Home\]](https://freeablo.org/) | [\[Github\]](https://github.com/wheybags/freeablo)
@@ -143,9 +155,11 @@ hiddenFromHomePage: true
 #### 模拟器
 - Ryujinx - 使用 C# 编写的 NS 模拟器: [\[Home\]](https://ryujinx.org/) | [\[Github\]](https://github.com/Ryujinx/Ryujinx)
 - yuzu - 使用 C++ 编写的 NS 模拟器: [\[Home\]](https://yuzu-emu.org/) | [\[Github\]](https://github.com/yuzu-emu/yuzu)
+- Kyty - PS4&PS5 模拟器，早期开发阶段: [\[Github\]](https://github.com/InoriRus/Kyty)
 - bsnes - FC/NES 模拟器: [\[Home\]](https://bsnes.dev/) | [\[Github\]](https://github.com/bsnes-emu/bsnes)
 - higan - 多合一模拟器，包括 FC、GB 等: [\[Home\]](https://higan.dev/) | [\[Github\]](https://github.com/higan-emu/higan)
 - MedNES - a cycle-accurate NES emulator written in C++, 支持NROM, MMC1, UNROM, CNROM: [\[Github\]](https://github.com/wpmed92/MedNES)
+- smolnes - 5000 行 C 代码的 NES 模拟器: [\[Github\]](https://github.com/binji/smolnes)
 - awesomenes - A NES emulator written in Go: [\[Github\]](https://github.com/rbaron/awesomenes)
 - 另一个 Go 语言的 NES 模拟器: [\[Github\]](https://github.com/fogleman/nes)
 - 用 Rust 编写的 NES 模拟器: [\[Github\]](https://github.com/MichaelBurge/nes-emulator)
