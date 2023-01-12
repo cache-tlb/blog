@@ -150,7 +150,6 @@ hiddenFromHomePage: true
 - Basic Computer Games: [\[Github\]](https://github.com/coding-horror/basic-computer-games) | [\[Book\]](https://annarchive.com/files/Basic_Computer_Games_Microcomputer_Edition.pdf)
 - OpenRCT2 - 过山车大亨2开源实现: [\[Home\]](https://openrct2.org/) | [\[Github\]](https://github.com/OpenRCT2/OpenRCT2) 
 - Caesar III 开源实现: [\[Github\]](https://github.com/bvschaik/julius)
-- fheroes2 - 魔法门之英雄无敌II开源实现: [\[Home\]](https://ihhub.github.io/fheroes2/) | [\[Github\]](https://github.com/ihhub/fheroes2)
 
 #### 模拟器
 - Ryujinx - 使用 C# 编写的 NS 模拟器: [\[Home\]](https://ryujinx.org/) | [\[Github\]](https://github.com/Ryujinx/Ryujinx)
