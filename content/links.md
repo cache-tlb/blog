@@ -55,6 +55,8 @@ hiddenFromHomePage: true
 - Stride Game Engine (formerly Xenko): [\[Home\]](https://stride3d.net/) | [\[Github\]](https://github.com/stride3d/stride)
 - Lumix Engine: [\[Github\]](https://github.com/nem0/LumixEngine)
 - Open 3D Engine: [\[Home\]](https://o3de.org/) | [\[Github\]](https://github.com/o3de/o3de)
+- Bevy - 由 Rust 编写的数据驱动的游戏引擎: [\[Home\]](https://bevyengine.org/) | [\[Github\]](https://github.com/bevyengine/bevy)
+- Ambient - 高性能多人游戏引擎, 支持WebAssembly, Rust, WebGPU: [\[Home\]](https://ambient.run/) | [\[Github\]](https://github.com/AmbientRun/Ambient)
 - Esoterica: [\[Home\]](https://www.esotericaengine.com/) | [\[Github\]](https://github.com/BobbyAnguelov/Esoterica)
 - Halley - A lightweight game engine written in modern C++: [\[Github\]](https://github.com/amzeratul/halley)
 - SpartanEngine: [\[Github\]](https://github.com/PanosK92/SpartanEngine)
@@ -84,7 +86,7 @@ hiddenFromHomePage: true
 
 #### 离线渲染
 - blender: [\[Home\]](https://www.blender.org/) | [\[Github\]](https://github.com/blender/blender)
-- PBRT: [\[Home\]](https://pbrt.org/) | [\[Book\]](https://www.pbr-book.org/) | [\[Code\]](https://github.com/mmp/pbrt-v4)
+- PBRT: [\[Home\]](https://pbrt.org/) | [\[Book\]](https://www.pbr-book.org/) | [\[Code\]](https://github.com/mmp/pbrt-v4) | [\[中文翻译\]](https://github.com/kanition/pbrtbook)
 - mitsuba2: [\[Home\]](http://www.mitsuba-renderer.org/) | [\[Github\]](https://github.com/mitsuba-renderer/mitsuba2)
 - MoonRay: [\[Home\]](https://openmoonray.org/) | [\[Github\]](TBA)
 - embree - Intel提供的高性能光线-场景求交库: [\[Home\]](http://embree.github.io/) | [\[Github\]](https://github.com/embree/embree)

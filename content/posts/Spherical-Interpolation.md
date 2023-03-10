@@ -28,7 +28,7 @@ $$
 
 于是得到 $a_t = \dfrac{\sin(1-t)\alpha}{\sin\alpha}$, 类似可以求出 $b_t = \dfrac{\sin t\alpha}{\sin\alpha}$. 
 
-上面只是限制了 $P_t$ 与 $O, P_0, P_1$ 共面, 以及两个内积关系, 没有约束$P_t$ 到原点得距离, 事实上, 距离为
+上面只是限制了 $P_t$ 与 $O, P_0, P_1$ 共面, 以及两个内积关系, 没有约束$P_t$ 到原点的距离, 事实上, 距离为
 $$
 \begin{aligned}
 |OP_t|^2 &= (a_t \vec{v_0} + b_t \vec{v_1})\cdot(a_t \vec{v_0} + b_t \vec{v_1}) = a_t^2 + b_t^2 + 2a_tb_t(\vec{v_0}\cdot\vec{v_1})\\\ 
