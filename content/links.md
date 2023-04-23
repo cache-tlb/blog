@@ -49,6 +49,7 @@ hiddenFromHomePage: true
 - cocos: [\[Home\]](https://www.cocos.com/en/) | [\[Github\]](https://github.com/cocos2d/cocos2d-x)
 - CRYENGINE: [\[Home\]](https://www.cryengine.com/) | [\[Github\]](https://github.com/CRYTEK/CRYENGINE)
 - Godot: [\[Home\]](https://godotengine.org/) | [\[Github\]](https://github.com/godotengine/godot)
+- Piccolo (formerly Pilot) – mini game engine for games104: | [\[Home\]](https://games104.boomingtech.com/) | [\[Github\]](https://github.com/BoomingTech/Piccolo/)
 - Heaps.io - 代表作 Dead Cells, Northgard, Evoland: [\[Home\]](https://heaps.io/) | [\[Github\]](https://github.com/HeapsIO/heaps)
 - Flax Engine: [\[Home\]](https://flaxengine.com/) | [\[Github\]](https://github.com/FlaxEngine/FlaxEngine)
 - Panda3D - 由 Disney 和 CMU 开发的跨平台 Python/C++ 游戏引擎: [\[Home\]](https://www.panda3d.org/) | [\[Github\]](https://github.com/panda3d/panda3d)
