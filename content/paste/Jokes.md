@@ -292,7 +292,7 @@ Your brain has two parts: left & right. Your left brain has nothing right, your 
 
 [来源](https://weibo.com/7031421269/MBFePyKP3)
 
-{{< /admonition quote >}}
+{{< /admonition >}}
 
 ---
 
