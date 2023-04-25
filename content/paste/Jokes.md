@@ -286,6 +286,16 @@ Your brain has two parts: left & right. Your left brain has nothing right, your 
 
 ---
 
+{{< admonition quote >}}
+
+中午跟同事在食堂吃饭的时候看着电视新闻，他转头问我知不知道什么是外交理论。我脑子里瞬间思维大爆炸，闪过什么“弱国无外交”、什么“和平共处五项原则”、甚至是什么“黑暗森林法则”。同时我很诧异不知道什么时候，他知识水平竟变得如此渊博，正当我沉浸在为自己的无知而感到愧疚的时候，他指着这个酥饼说：“今天这个饼做的就是外交理论。”
+
+[来源](https://weibo.com/7031421269/MBFePyKP3)
+
+{{< /admonition quote >}}
+
+---
+
 ## 讽刺
 
 {{< admonition quote >}}
