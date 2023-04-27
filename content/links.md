@@ -64,6 +64,7 @@ hiddenFromHomePage: true
 - Mojoc - 开源, 纯C的手游引擎: [\[Github\]](https://github.com/scottcgi/Mojoc)
 - Rust Game engine 3D: [\[Home\]](https://rg3d.rs/) | [\[Github\]](https://github.com/rg3dengine/rg3d)
 - BabylonJS: [\[Home\]](https://www.babylonjs.com/) | [\[Github\]](https://github.com/BabylonJS/Babylon.js)
+- PlayCanvas: [\[Home\]](https://playcanvas.com/) | [\[Github\]](https://github.com/playcanvas/engine)
 - WebGLStudio.js - 有一个web端游戏引擎: [\[Home\]](https://webglstudio.org/) | [\[Github\]](https://github.com/jagenjo/webglstudio.js)
 - nunuStudio - Web端的引擎: [\[Home\]](https://www.nunustudio.org/) | [\[Github\]](https://github.com/tentone/nunuStudio)
 - Fyrox Game Engine - Rust语言的2D和3D游戏引擎: [\[Home\]](https://fyrox.rs/) | [\[Github\]](https://github.com/FyroxEngine/Fyrox)
