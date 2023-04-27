@@ -296,6 +296,15 @@ Your brain has two parts: left & right. Your left brain has nothing right, your 
 
 ---
 
+{{< admonition quote >}}
+
+【「咖啡因」来自于「咖啡果」】
+
+「咖啡因」来自于「咖啡果」中，所以「咖啡果」是「咖啡因」的「因」，而「咖啡因」是「咖啡果」的「果」。 ​​​
+{{< /admonition >}}
+
+---
+
 ## 讽刺
 
 {{< admonition quote >}}
