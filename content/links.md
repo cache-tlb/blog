@@ -1,6 +1,6 @@
 ---
 title: "链接/网络资源"
-description: "一些有用的链接和站点."
+description: "一些有用/有趣的链接和站点."
 date: 2021-07-14T17:28:12+08:00
 hiddenFromHomePage: true
 ---
