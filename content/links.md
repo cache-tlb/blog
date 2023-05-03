@@ -3,6 +3,8 @@ title: "链接/网络资源"
 description: "一些有用/有趣的链接和站点."
 date: 2021-07-14T17:28:12+08:00
 hiddenFromHomePage: true
+toc:
+    enable: false
 ---
 
 这里整理了一些有用的链接和站点.
@@ -20,10 +22,11 @@ hiddenFromHomePage: true
 - Inigo Quilez, 大名鼎鼎的iq大神, ShaderToy的作者: [\[Home\]](https://www.iquilezles.org/) | [\[Articles\]](https://www.iquilezles.org/www/index.htm) | [\[Showcase\]](https://www.shadertoy.com/user/iq)
 - Realtime Rendering: [\[Blog\]](http://www.realtimerendering.com/blog/)
 - Aras Pranckevičius@Unity: [\[Home\]](https://aras-p.info/) | [\[Blog\]](https://aras-p.info/blog/)
-- 云风: [\[Blog\]](https://blog.codingnow.com/)
+- Angelo Pesce, Senior Technical Director : [\[Blog\]](https://c0de517e.blogspot.com/) | [\[Twitter\]](https://twitter.com/kenpex)
 - Simon Trümpler, TA of RIME, 介绍了大量主流 3A 游戏的抓帧分析 : [\[Blog\]](https://simonschreibt.de/)
 - Alan Wolfe @NVidia/Blizzard: [\[Blog\]](https://blog.demofox.org/)
 - Shawn Hargreaves @D3D Dev team: [\[Home\]](https://shawnhargreaves.com/) | [\[Blog\]](https://shawnhargreaves.com/blogindex.html)
+- 云风: [\[Blog\]](https://blog.codingnow.com/)
 - 冯乐乐(@miHoYo): [\[Blog\]](http://candycat1992.github.io/)
 - 毛星云(@Tencent) 的图形学笔记: [\[Link\]](https://github.com/QianMo/Game-Programmer-Study-Notes)
 - Wu Yuwen @Netease(Messiah Engine Team): [\[Blog\]](https://atyuwen.github.io/)
