@@ -14,15 +14,16 @@ toc:
 - Ke-Sen Huang 收集的图形会议(SIGGRAPH / EG / EGSR / ...)论文: [\[Link\]](http://kesen.realtimerendering.com/)
 - Self Shadow, 历年 SIGGRAPH Course 资源收集: [\[Link\]](https://blog.selfshadow.com/)
 - GDC Vault: [\[Link\]](https://www.gdcvault.com/)
-- Unreal Engine 官方社区精选: [\[Zhihu\]](https://www.zhihu.com/column/egc-community)
+- Unreal Engine 官方社区精选: [\[TechBlog\]](https://www.unrealengine.com/en-US/feed/tech-blog) | [\[Zhihu\]](https://www.zhihu.com/column/egc-community)
+- Unity 官方资源: [\[资源\]](https://resources.unity.com/) | [\[最佳实践\]](https://unity.com/how-to)
 - Jendrik Illner 的图形技术周刊: [\[Link\]](https://www.jendrikillner.com/)
 - Realtime Rendering 4th Edition 参考文献合集: [\[Link\]](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection)
 
 ### 游戏 / 实时渲染
 - Inigo Quilez, 大名鼎鼎的iq大神, ShaderToy的作者: [\[Home\]](https://www.iquilezles.org/) | [\[Articles\]](https://www.iquilezles.org/www/index.htm) | [\[Showcase\]](https://www.shadertoy.com/user/iq)
 - Realtime Rendering: [\[Blog\]](http://www.realtimerendering.com/blog/)
-- Aras Pranckevičius@Unity: [\[Home\]](https://aras-p.info/) | [\[Blog\]](https://aras-p.info/blog/)
-- Angelo Pesce, Senior Technical Director : [\[Blog\]](https://c0de517e.blogspot.com/) | [\[Twitter\]](https://twitter.com/kenpex)
+- Aras Pranckevičius@Unity: [\[Home\]](https://aras-p.info/) | [\[Blog\]](https://aras-p.info/blog/) | [\[Twitter\]](https://twitter.com/aras_p) | [\[Github\]](https://github.com/aras-p)
+- Angelo Pesce, Senior Technical Director @ Roblox: [\[Blog\]](https://c0de517e.blogspot.com/) | [\[Twitter\]](https://twitter.com/kenpex)
 - Simon Trümpler, TA of RIME, 介绍了大量主流 3A 游戏的抓帧分析 : [\[Blog\]](https://simonschreibt.de/)
 - Alan Wolfe @NVidia/Blizzard: [\[Blog\]](https://blog.demofox.org/)
 - Shawn Hargreaves @D3D Dev team: [\[Home\]](https://shawnhargreaves.com/) | [\[Blog\]](https://shawnhargreaves.com/blogindex.html)
@@ -115,7 +116,7 @@ toc:
 - Cataclysm: Dark Days Ahead. [\[Home\]](https://cataclysmdda.org/) | [\[Github\]](https://github.com/CleverRaven/Cataclysm-DDA/)
 
 #### 经典游戏开源版
-- 收集开源游戏的网站: [Link1](https://osgameclones.com/) | [Link2](https://archive.org/details/gamesourcecode) | [Link3](https://trilarion.github.io/opensourcegames/) | [Link4](https://github.com/leereilly/games/blob/master/README.md) | [Link5](https://github.com/michelpereira/awesome-open-source-games)
+- 收集开源游戏的网站: [\[Link1\]](https://osgameclones.com/) | [\[Link2\]](https://archive.org/details/gamesourcecode) | [\[Link3\]](https://trilarion.github.io/opensourcegames/) | [\[Link4\]](https://github.com/leereilly/games/blob/master/README.md) | [\[Link5\]](https://github.com/michelpereira/awesome-open-source-games)
 - OSU! 官方开源: [\[Home\]](https://osu.ppy.sh/) | [\[Github\]](https://github.com/ppy/osu)
 - solidat 官方开源: [\[Home\]](https://soldat.pl/) | [\[Github\]](https://github.com/Soldat/soldat)
 - Craft - 开源 MineCraft: [\[Home\]](https://www.michaelfogleman.com/projects/craft/) | [\[Github\]](https://github.com/fogleman/Craft)
