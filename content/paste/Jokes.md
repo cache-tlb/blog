@@ -278,6 +278,14 @@ Your brain has two parts: left & right. Your left brain has nothing right, your 
 ---
 
 {{< admonition quote >}}
+
+孙悟空看见一个无人看守的果园，跑进去吃了个够，谁知道来了个罗汉，指着墙上一块牌子说这是佛祖的果园，要抓他问罪。孙悟空一看，牌子上写着四个字“此如来园。”拍了拍头说：“原来如此。”罗汉骂道：“泼猴，你念倒了！” ​​​
+
+{{< /admonition >}}
+
+---
+
+{{< admonition quote >}}
 转自弱智吧:
 
 消灭了所有的圆柱民之后方块人说: 这里是我的世界.
