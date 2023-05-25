@@ -1,5 +1,5 @@
 ---
-title: "[游戏评论]Bridge Constructor Portal"
+title: "[游戏评论] Bridge Constructor Portal"
 date: 2022-02-27T18:32:25+08:00
 categories: ["游戏"]
 toc:
