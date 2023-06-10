@@ -112,6 +112,13 @@ toc:
 - nphysics - Rust 语言 2D 和 3D 的刚体物理引擎: [\[Home\]](https://nphysics.org/) | [\[Github\]](https://github.com/dimforge/nphysics)
 - Google liquidfun - 基于 Box 2D 的刚体/流体模拟: [\[Home\]](http://google.github.io/liquidfun/) | [\[Github\]](https://github.com/google/liquidfun)
 
+#### 几何处理
+- CGAL - 计算几何的经典库, header only: [\[Home\]](https://www.cgal.org/) | [\[Github\]](https://github.com/CGAL/cgal)
+- libigl - header only, 包含经典离散微分几何和 FEM 算法, 被诸多研究机构使用: [\[Home\]](https://libigl.github.io/) | [\[Github\]](https://github.com/libigl/libigl/)
+- MeshLab - 提供各种网格处理算法, 并自带交互界面: [\[Home\]](http://www.meshlab.net/) | [\[Github\]](https://github.com/cnr-isti-vclab/meshlab)
+- OpenVDB - 稀疏体积表达, 为多种流体模拟软件提供基础数据结构: [\[Home\]](https://www.openvdb.org/) | [\[Github\]](https://github.com/AcademySoftwareFoundation/openvdb)
+
+
 #### 开源游戏
 - Mindustry: A sandbox tower-defense game. [\[Home\]](https://mindustrygame.github.io/)| [\[Github\]](https://github.com/Anuken/Mindustry)
 - Cataclysm: Dark Days Ahead. [\[Home\]](https://cataclysmdda.org/) | [\[Github\]](https://github.com/CleverRaven/Cataclysm-DDA/)
