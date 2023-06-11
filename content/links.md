@@ -60,6 +60,7 @@ toc:
 - Stride Game Engine (formerly Xenko): [\[Home\]](https://stride3d.net/) | [\[Github\]](https://github.com/stride3d/stride)
 - Lumix Engine: [\[Github\]](https://github.com/nem0/LumixEngine)
 - Open 3D Engine: [\[Home\]](https://o3de.org/) | [\[Github\]](https://github.com/o3de/o3de)
+- WickedEngine: [\[Home\]](https://wickedengine.net/) | [\[Blog\]](https://wickedengine.net/category/devblog/) | [\[Github\]](https://github.com/turanszkij/WickedEngine)
 - Bevy - 由 Rust 编写的数据驱动的游戏引擎: [\[Home\]](https://bevyengine.org/) | [\[Github\]](https://github.com/bevyengine/bevy)
 - Ambient - 高性能多人游戏引擎, 支持WebAssembly, Rust, WebGPU: [\[Home\]](https://ambient.run/) | [\[Github\]](https://github.com/AmbientRun/Ambient)
 - Esoterica: [\[Home\]](https://www.esotericaengine.com/) | [\[Github\]](https://github.com/BobbyAnguelov/Esoterica)
@@ -85,11 +86,11 @@ toc:
 - Magnum - 轻量级、模块化的图形中间件: [\[Home\]](https://magnum.graphics/) | [\[Github\]](https://github.com/mosra/magnum)
 - LÖVE - 带 lua 绑定的 2D 渲染框架: [\[Home\]](https://love2d.org/) | [\[Github\]](https://github.com/love2d/love)
 - Amulet - 带 lua 绑定的渲染框架: [\[Home\]](http://www.amulet.xyz) | [\[Github\]](https://github.com/ianmaclarty/amulet)
+- Pixi3D - 3D js 渲染器: [\[Home\]](https://pixi3d.org/) | [\[Github\]](https://github.com/jnsmalm/pixi3d)
 
-#### 实时渲染
+#### 实时渲染项目
 - kajiya - 实时全局光照渲染器，使用混合光栅化、Compute、光线追踪的pipeline: [\[Github\]](https://github.com/EmbarkStudios/kajiya)
 - AirSim - 微软AI研究院为自动驾驶开发的真实世界模拟器，基于UE/Unity: [\[Home\]](https://microsoft.github.io/AirSim/) | [\[Github\]](https://github.com/microsoft/AirSim)
-- Pixi3D - 3D js 渲染器: [\[Home\]](https://pixi3d.org/) | [\[Github\]](https://github.com/jnsmalm/pixi3d)
 
 #### 离线渲染
 - blender: [\[Home\]](https://www.blender.org/) | [\[Github\]](https://github.com/blender/blender)
@@ -117,6 +118,8 @@ toc:
 - libigl - header only, 包含经典离散微分几何和 FEM 算法, 被诸多研究机构使用: [\[Home\]](https://libigl.github.io/) | [\[Github\]](https://github.com/libigl/libigl/)
 - MeshLab - 提供各种网格处理算法, 并自带交互界面: [\[Home\]](http://www.meshlab.net/) | [\[Github\]](https://github.com/cnr-isti-vclab/meshlab)
 - OpenVDB - 稀疏体积表达, 为多种流体模拟软件提供基础数据结构: [\[Home\]](https://www.openvdb.org/) | [\[Github\]](https://github.com/AcademySoftwareFoundation/openvdb)
+- PointCloudLibrary (PCL): [\[Home\]](https://pointclouds.org/) | [\[Github\]](https://github.com/PointCloudLibrary/pcl)
+- Open3D - 点云处理库: [\[Home\]](http://www.open3d.org/) | [\[Github\]](https://github.com/isl-org/Open3D)
 
 
 #### 开源游戏
@@ -190,6 +193,7 @@ toc:
 #### 可视化
 - manim - 3Blue1Brown 使用的动画引擎: [\[Home\]](https://www.manim.community/) | [\[Github\]](https://github.com/ManimCommunity/manim/)
 - Blend2D - 2D矢量图引擎: [\[Home\]](https://blend2d.com/) | [\[Github\]](https://github.com/blend2d/blend2d)
+- Visualization Toolkit (VTK) - 3D 数据可视化: [\[Home\]](https://vtk.org/) | [\[Gitlab\]](https://gitlab.kitware.com/vtk/vtk)
 
 
 #### 图形界面
@@ -200,13 +204,16 @@ toc:
 
 #### 算法/论文代码
 - 一些图形学论文的实现: [\[Link\]](https://github.com/AngelMonica126/GraphicAlgorithm)
-- PhoenixGo - 腾讯的AlphaGo实现: [\[Github\]](https://github.com/Tencent/PhoenixGo)
+- PhoenixGo - 腾讯的 AlphaGo 实现: [\[Github\]](https://github.com/Tencent/PhoenixGo)
 - White-box Cartoon (CVPR2020) 官方 tensorflow 实现: [\[Github\]](https://github.com/SystemErrorWang/White-box-Cartoonization)
 - xBRZ - 一种 pixel art 放大算法: [\[Github\]](https://github.com/atheros/xbrzscale) 
 - Depixelizing Pixel Art 非官方实现: [\[Github\]](https://github.com/vvanirudh/Pixel-Art)
 - Perceptual Losses for Real-Time Style Transfer and Super-Resolution: [\[Github\]](https://github.com/yusuketomoto/chainer-fast-neuralstyle)
 - Neural Artistic Style: [\[Github\]](https://github.com/andersbll/neural_artistic_style)
 - Karpathy 的 NeuralTalk: [\[Github\]](https://github.com/karpathy/neuraltalk)
+
+#### 实用库
+- Magic Enum C++ - 提供 enum class 的静态反射: [\[Github\]](https://github.com/Neargye/magic_enum) 
 
 #### Cool stuff
 - A C++ program that can do Raytracing in the console. [\[Github\]](https://github.com/DinoZ1729/Ray)
