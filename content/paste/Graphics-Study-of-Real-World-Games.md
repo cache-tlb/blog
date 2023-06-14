@@ -26,7 +26,7 @@ hiddenFromSearch: true
 | Cyberpunk 2077 | 2020 | Hang Zhang | [\[之二\]](https://zhangdoa.com/posts/rendering-analysis-cyberpunk-2077) |
 | Elden Ring | 2022 | M.A.Moniem | [\[地址\]](https://mamoniem.com/behind-the-pretty-frames-elden-ring/) |
 | Tear Down | 2022 | Steven Wittens | [\[地址\]](https://acko.net/blog/teardown-frame-teardown/) |
-
+| Diablo IV | 2023 | Blizzard Entertainment | [\[地址\]](https://news.blizzard.com/en-us/diablo4/23964183/peeling-back-the-varnish-the-graphics-of-diablo-iv) |
 
 
 [^GTAV]: 分 3 部分 
