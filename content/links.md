@@ -213,6 +213,8 @@ toc:
 - Karpathy 的 NeuralTalk: [\[Github\]](https://github.com/karpathy/neuraltalk)
 
 #### 实用库
+- glm - 提供 C++ 下对应于 glsl 的向量和矩阵类型和运算，header only : [\[Home\]](https://glm.g-truc.net/) | [\[Github\]](https://github.com/g-truc/glm)
+- spdlog - 高性能的 C++ 日志库，header only: [\[Github\]](https://github.com/gabime/spdlog)
 - Magic Enum C++ - 提供 enum class 的静态反射: [\[Github\]](https://github.com/Neargye/magic_enum) 
 
 #### Cool stuff
