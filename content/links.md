@@ -130,6 +130,7 @@ toc:
 - 收集开源游戏的网站: [\[Link1\]](https://osgameclones.com/) | [\[Link2\]](https://archive.org/details/gamesourcecode) | [\[Link3\]](https://trilarion.github.io/opensourcegames/) | [\[Link4\]](https://github.com/leereilly/games/blob/master/README.md) | [\[Link5\]](https://github.com/michelpereira/awesome-open-source-games)
 - OSU! 官方开源: [\[Home\]](https://osu.ppy.sh/) | [\[Github\]](https://github.com/ppy/osu)
 - solidat 官方开源: [\[Home\]](https://soldat.pl/) | [\[Github\]](https://github.com/Soldat/soldat)
+- Far Cry 1 源码泄露，不含游戏素材: [\[Github\]](https://github.com/StrongPC123/Far-Cry-1-Source-Full) | [\[Archive\]](https://archive.org/details/far-cry-1.34-complete)
 - Craft - 开源 MineCraft: [\[Home\]](https://www.michaelfogleman.com/projects/craft/) | [\[Github\]](https://github.com/fogleman/Craft)
 - Hematite - 用 Rust 实现的 Minecraft: [\[Home\]](http://hematite.piston.rs/) | [\[Github\]](https://github.com/PistonDevelopers/hematite)
 - minecraft-weekend - 用 48 小时写的 Minecraft: [\[Github\]](https://github.com/jdah/minecraft-weekend)
