@@ -92,6 +92,10 @@ toc:
 - kajiya - 实时全局光照渲染器，使用混合光栅化、Compute、光线追踪的pipeline: [\[Github\]](https://github.com/EmbarkStudios/kajiya)
 - AirSim - 微软AI研究院为自动驾驶开发的真实世界模拟器，基于UE/Unity: [\[Home\]](https://microsoft.github.io/AirSim/) | [\[Github\]](https://github.com/microsoft/AirSim)
 
+#### 跨平台的硬件接口
+- ANGLE - Google 开发的适用于 Windows, Mac, Linux, iOS, Android 的 OpenGL ES 模拟: [\[Home\]](http://angleproject.org/) | [\[Github\]](https://github.com/google/angle)
+- IGL - Facebook 开发的跨平台的现代硬件接口抽象, 支持 OpenGL, Metal, Vulkan: [\[Github\]](https://github.com/facebook/igl)
+
 #### 离线渲染
 - blender: [\[Home\]](https://www.blender.org/) | [\[Github\]](https://github.com/blender/blender)
 - PBRT: [\[Home\]](https://pbrt.org/) | [\[Book\]](https://www.pbr-book.org/) | [\[Code\]](https://github.com/mmp/pbrt-v4) | [\[中文翻译\]](https://github.com/kanition/pbrtbook)
