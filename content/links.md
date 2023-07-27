@@ -116,6 +116,7 @@ toc:
 - CHRONO - 支持载具/可变形地形/流体相互交互: [\[Home\]](https://projectchrono.org/) | [\[Github\]](https://github.com/projectchrono/chrono)
 - nphysics - Rust 语言 2D 和 3D 的刚体物理引擎: [\[Home\]](https://nphysics.org/) | [\[Github\]](https://github.com/dimforge/nphysics)
 - Google liquidfun - 基于 Box 2D 的刚体/流体模拟: [\[Home\]](http://google.github.io/liquidfun/) | [\[Github\]](https://github.com/google/liquidfun)
+- ZENO - 泽森科工: [\[Home\]](https://zenustech.com/) | [\[Github\]](https://github.com/zenustech/zeno)
 
 #### 几何处理
 - CGAL - 计算几何的经典库, header only: [\[Home\]](https://www.cgal.org/) | [\[Github\]](https://github.com/CGAL/cgal)
