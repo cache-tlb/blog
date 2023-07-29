@@ -114,9 +114,9 @@ toc:
 - Taichi - 人人都会的物理模拟: [\[Github\]](https://github.com/taichi-dev/taichi)
 - NVIDIA Warp - 类似 Taichi 的物理模拟工具，使用 python 作为前端: [\[Github\]](https://github.com/NVIDIA/warp) 
 - CHRONO - 支持载具/可变形地形/流体相互交互: [\[Home\]](https://projectchrono.org/) | [\[Github\]](https://github.com/projectchrono/chrono)
+- ZENO - 泽森科工: [\[Home\]](https://zenustech.com/) | [\[Github\]](https://github.com/zenustech/zeno)
 - nphysics - Rust 语言 2D 和 3D 的刚体物理引擎: [\[Home\]](https://nphysics.org/) | [\[Github\]](https://github.com/dimforge/nphysics)
 - Google liquidfun - 基于 Box 2D 的刚体/流体模拟: [\[Home\]](http://google.github.io/liquidfun/) | [\[Github\]](https://github.com/google/liquidfun)
-- ZENO - 泽森科工: [\[Home\]](https://zenustech.com/) | [\[Github\]](https://github.com/zenustech/zeno)
 
 #### 几何处理
 - CGAL - 计算几何的经典库, header only: [\[Home\]](https://www.cgal.org/) | [\[Github\]](https://github.com/CGAL/cgal)
@@ -125,6 +125,7 @@ toc:
 - OpenVDB - 稀疏体积表达, 为多种流体模拟软件提供基础数据结构: [\[Home\]](https://www.openvdb.org/) | [\[Github\]](https://github.com/AcademySoftwareFoundation/openvdb)
 - PointCloudLibrary (PCL): [\[Home\]](https://pointclouds.org/) | [\[Github\]](https://github.com/PointCloudLibrary/pcl)
 - Open3D - 点云处理库: [\[Home\]](http://www.open3d.org/) | [\[Github\]](https://github.com/isl-org/Open3D)
+- Gmsh - 用于有限元的网格生成工具，支持 2D / 3D 三角化, 可用于 NavMesh 生成, Probe 四面体网格生成等: [\[Home\]](https://gmsh.info/) | [\[Repo\]](https://gitlab.onelab.info/gmsh/gmsh/) | [\[Code\]](https://gmsh.info/src/gmsh-4.11.1-source.tgz)
 
 
 #### 开源游戏
