@@ -87,6 +87,7 @@ toc:
 - LÖVE - 带 lua 绑定的 2D 渲染框架: [\[Home\]](https://love2d.org/) | [\[Github\]](https://github.com/love2d/love)
 - Amulet - 带 lua 绑定的渲染框架: [\[Home\]](http://www.amulet.xyz) | [\[Github\]](https://github.com/ianmaclarty/amulet)
 - Pixi3D - 3D js 渲染器: [\[Home\]](https://pixi3d.org/) | [\[Github\]](https://github.com/jnsmalm/pixi3d)
+- micro{gl} - 仅头文件的软光栅实现，不依赖其他三方库及 STL: [\[Home\]](https://micro-gl.github.io/docs/microgl) | [\[Github\]](https://github.com/micro-gl/micro-gl)
 
 #### 实时渲染项目
 - kajiya - 实时全局光照渲染器，使用混合光栅化、Compute、光线追踪的pipeline: [\[Github\]](https://github.com/EmbarkStudios/kajiya)
