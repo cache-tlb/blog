@@ -21,7 +21,7 @@ $$
 
 <div>
 <center>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450pt" height="300pt" viewBox="50 75 350 275" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320pt" height="260pt" viewBox="80 70 320 260" version="1.1">
 <defs>
 <g>
 <symbol overflow="visible" id="glyph0-0">

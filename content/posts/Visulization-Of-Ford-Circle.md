@@ -12,7 +12,7 @@ categories: ["数学"]
 
 <div>
 <center>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400pt" height="190pt" viewBox="100 70 300 165" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300pt" height="165pt" viewBox="100 70 300 165" version="1.1">
 <defs>
 <g>
 <symbol overflow="visible" id="glyph0-0">
@@ -95,7 +95,7 @@ categories: ["数学"]
 
 <div>
 <center>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400pt" height="240pt" viewBox="90 70 290 190" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="290pt" height="190pt" viewBox="90 70 290 190" version="1.1">
 <defs>
 <g>
 <symbol overflow="visible" id="glyph10-0">
