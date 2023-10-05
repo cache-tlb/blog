@@ -62,6 +62,7 @@ toc:
 - Open 3D Engine: [\[Home\]](https://o3de.org/) | [\[Github\]](https://github.com/o3de/o3de)
 - WickedEngine: [\[Home\]](https://wickedengine.net/) | [\[Blog\]](https://wickedengine.net/category/devblog/) | [\[Github\]](https://github.com/turanszkij/WickedEngine)
 - Bevy - 由 Rust 编写的数据驱动的游戏引擎: [\[Home\]](https://bevyengine.org/) | [\[Github\]](https://github.com/bevyengine/bevy)
+- Defold - 跨平台的 PC、移动端、Web 游戏引擎，主打2D，也支持3D: [\[Home\]](https://defold.com/) | [\[Github\]](https://github.com/defold/defold)
 - Ambient - 高性能多人游戏引擎, 支持WebAssembly, Rust, WebGPU: [\[Home\]](https://ambient.run/) | [\[Github\]](https://github.com/AmbientRun/Ambient)
 - Esoterica: [\[Home\]](https://www.esotericaengine.com/) | [\[Github\]](https://github.com/BobbyAnguelov/Esoterica)
 - Halley - A lightweight game engine written in modern C++: [\[Github\]](https://github.com/amzeratul/halley)
