@@ -78,6 +78,7 @@ toc:
 - Rust Game engine 3D: [\[Home\]](https://rg3d.rs/) | [\[Github\]](https://github.com/rg3dengine/rg3d)
 - BabylonJS: [\[Home\]](https://www.babylonjs.com/) | [\[Github\]](https://github.com/BabylonJS/Babylon.js)
 - PlayCanvas: [\[Home\]](https://playcanvas.com/) | [\[Github\]](https://github.com/playcanvas/engine)
+- Phaser - 基于 Pixi.js 的 2D 游戏引擎: [\[Home\]](https://phaser.io/) | [\[Github\]](https://github.com/photonstorm/phaser)
 - WebGLStudio.js - 有一个web端游戏引擎: [\[Home\]](https://webglstudio.org/) | [\[Github\]](https://github.com/jagenjo/webglstudio.js)
 - nunuStudio - Web端的引擎: [\[Home\]](https://www.nunustudio.org/) | [\[Github\]](https://github.com/tentone/nunuStudio)
 - Orillusion - 基于 WebGPU 的 3D 渲染引擎: [\[Home\]](https://www.orillusion.com/) | [\[Github\]](https://github.com/Orillusion/orillusion) 
@@ -94,7 +95,8 @@ toc:
 - Magnum - 轻量级、模块化的图形中间件: [\[Home\]](https://magnum.graphics/) | [\[Github\]](https://github.com/mosra/magnum)
 - LÖVE - 带 lua 绑定的 2D 渲染框架: [\[Home\]](https://love2d.org/) | [\[Github\]](https://github.com/love2d/love)
 - Amulet - 带 lua 绑定的渲染框架: [\[Home\]](http://www.amulet.xyz) | [\[Github\]](https://github.com/ianmaclarty/amulet)
-- Pixi3D - 3D js 渲染器: [\[Home\]](https://pixi3d.org/) | [\[Github\]](https://github.com/jnsmalm/pixi3d)
+- PixiJS - 2D Canvas 渲染引擎: [\[Home\]](https://pixijs.com/) | [\[Github\]](https://github.com/pixijs/pixijs)
+- Pixi3D - PixiJS 的 3D 版: [\[Home\]](https://pixi3d.org/) | [\[Github\]](https://github.com/jnsmalm/pixi3d)
 - micro{gl} - 仅头文件的软光栅实现，不依赖其他三方库及 STL: [\[Home\]](https://micro-gl.github.io/docs/microgl) | [\[Github\]](https://github.com/micro-gl/micro-gl)
 
 #### 实时渲染项目
