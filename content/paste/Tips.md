@@ -256,6 +256,10 @@ VanEpps, E. M., Hart, E., & Schweitzer, M. E. (2023). Dual-promotion: Bragging b
 
 其它还有一些细节，自己看吧。
 
+<div><center>
+<img src='/paste/images/stem_majors.drawio.svg' />
+</center></div>
+
 {{<  /admonition >}}
 
 ---
