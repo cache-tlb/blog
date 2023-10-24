@@ -39,6 +39,16 @@ hiddenFromSearch: true
 
 ---
 
+来自微博@Libre盖子，[链接](https://weibo.com/1219205751/NoHxL6cZo)
+
+{{< admonition quote >}}
+F-16 战斗机的机动速度快，但是缺乏精确打击的能力。要实现这一点，须研制 F-32 与 F-64 战斗机。
+{{< /admonition >}}
+
+评论曰：实际战场上也会考虑先使用液压机把高维战斗机压缩到I-8型号，再大批量应用。
+
+---
+
 {{< admonition quote >}}
 
 四位工程师坐进一辆车里。车子发动不了。
