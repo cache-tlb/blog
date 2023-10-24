@@ -69,6 +69,16 @@ $$r = \frac{a\cdot W_A}{W_P}, \qquad s = \frac{b\cdot W_B}{W_P},\qquad t = \frac
 \\[W_P = \left( \frac{r}{W_A}+ \frac{s}{W_B} + \frac{t}{W_C} \right)^{-1} .\\]
 将 $W_P$ 代回去就能求出 $a,b,c$ 的值了.
 
+## demo
+
+以下的例子展示了一个三维空间中的网格，可以按 UE 的交互模式在场景中漫游，从各个角度观察网格，并切换是否使用透视矫正的重心坐标作为插值系数。
+<canvas id="drawCanvas" width="1024" height="768"> </canvas>
+<div>
+    <input type="checkbox" id="useCorrection" /> Use Correction
+</div>
+<script src='./m4.js'></script>
+<script src='./demo.js'></script>
+
 ## Bonus: 深度的插值
 
 前面一直忽略了 $Z$ 坐标，现在考虑以下的问题：已知三角形 $ABC$ 三个顶点的齐次坐标，并得到三个顶点的深度缓冲值为 $d_i = \dfrac{Z_i}{W_i}, i=A,B,C $，如何插值得到内部像素 $P$ 点的深度呢？
