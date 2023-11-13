@@ -159,6 +159,7 @@ toc:
 - OpenLara - 古墓丽影I复刻: [\[Web Demo\]](http://xproger.info/projects/OpenLara/) | [\[Github\]](https://github.com/XProger/OpenLara)
 - OpenTomb - 跨平台的古墓丽影1-5的引擎: [\[Home\]](http://opentomb.github.io/) | [\[Github\]](https://github.com/opentomb/OpenTomb)
 - Tomb Raider: Chronicles 的反汇编转成C代码: [\[Github\]](https://github.com/TOMB5/TOMB5)
+- 战争雷霆的 Dagor 引擎官方开源: [\[Github\]](https://github.com/GaijinEntertainment/DagorEngine)
 - EA 发布的泰伯利亚的黎明和红色警戒1的引擎: [\[Github\]](https://github.com/electronicarts/CnC_Remastered_Collection)
 - OpenRA - 红色警戒的开源实现: [\[Home\]](www.openra.net) | [\[Github\]](https://github.com/OpenRA/OpenRA)
 - 基于 OpenRA 的开源尤里的复仇: [\[Github\]](https://github.com/cookgreen/Yuris-Revenge)
