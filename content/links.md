@@ -186,7 +186,7 @@ toc:
 - OpenPAL3 - 仙剑3引擎, 需要正版游戏数据: [\[Home\]](https://3.openpal.io/) | [\[Github\]](https://github.com/dontpanic92/OpenPAL3)
 - fheroes2 - 魔法门之英雄无敌游戏引擎实现: [\[Home\]](https://ihhub.github.io/fheroes2/) | [\[Github\]](https://github.com/ihhub/fheroes2)
 - VCMI - 英雄无敌3开源实现: [\[Home\]](https://vcmi.eu/) | [\[Engine\]](https://github.com/vcmi/vcmi) | [\[Assets\]](https://github.com/vcmi/vcmi-assets)
-- 文明V复现: [\[Github\]](https://github.com/yairm210/UnCiv)
+- 文明V复现, 支持Windows/Linux/Mac以及安卓和树莓派: [\[Github\]](https://github.com/yairm210/UnCiv)
 - Freeciv - Web版文明II: [\[Home\]](http://www.freeciv.org/) | [\[Github\]](https://github.com/freeciv/freeciv-web)
 - OpenAge - 帝国时代2的游戏引擎开源克隆: [\[Home\]](https://openage.sft.mx/) | [\[Github\]](https://github.com/SFTtech/openage/)
 - 金庸群侠传3D重制版(Unity): [\[Home\]](http://www.jy-new.com) | [\[Github\]](https://github.com/jynew/jynew)
