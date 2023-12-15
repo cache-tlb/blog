@@ -77,6 +77,7 @@ toc:
 - SpartanEngine: [\[Github\]](https://github.com/PanosK92/SpartanEngine)
 - Mojoc - 开源, 纯C的手游引擎: [\[Github\]](https://github.com/scottcgi/Mojoc)
 - raylib - 极简的游戏引擎，无编辑器，基于 OpenGL: [\[Home\]](https://www.raylib.com/) | [\[Github\]](https://github.com/raysan5/raylib)
+- Lumos Engine - 跨平台的3D游戏引擎，支持2D，使用 Lua 脚本，带编辑器: [\[Github\]](https://github.com/jmorton06/Lumos)
 - Rust Game engine 3D: [\[Home\]](https://rg3d.rs/) | [\[Github\]](https://github.com/rg3dengine/rg3d)
 - BabylonJS: [\[Home\]](https://www.babylonjs.com/) | [\[Github\]](https://github.com/BabylonJS/Babylon.js)
 - PlayCanvas: [\[Home\]](https://playcanvas.com/) | [\[Github\]](https://github.com/playcanvas/engine)
