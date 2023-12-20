@@ -2,7 +2,7 @@
 title: "译介｜Eddy Luten 什么是 OpenGL？(2014)"
 date: 2023-12-19T22:57:39+08:00
 toc:
-    enable: false
+    enable: true
 hiddenFromHomePage: true
 hiddenFromSearch: true
 ---
