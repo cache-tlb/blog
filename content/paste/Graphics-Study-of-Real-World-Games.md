@@ -24,10 +24,12 @@ hiddenFromSearch: true
 | Mafia: Definitive Edition | 2020 | Emilio López | [\[地址\]](https://www.elopezr.com/the-rendering-of-mafia-definitive-edition/) |
 | Cyberpunk 2077 | 2020 | Angelo Pesce | [\[之一\]](https://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html) |
 | Cyberpunk 2077 | 2020 | Hang Zhang | [\[之二\]](https://zhangdoa.com/posts/rendering-analysis-cyberpunk-2077) |
+| Knockout City | 2021 | Ashley Taylor | [\[地址\]](https://www.velanstudios.com/post/knockout-city-frame-breakdown) |
 | Elden Ring | 2022 | M.A.Moniem | [\[地址\]](https://mamoniem.com/behind-the-pretty-frames-elden-ring/) |
 | Tear Down | 2022 | Steven Wittens | [\[地址\]](https://acko.net/blog/teardown-frame-teardown/) |
 | Diablo IV | 2023 | Blizzard Entertainment | [\[地址\]](https://news.blizzard.com/en-us/diablo4/23964183/peeling-back-the-varnish-the-graphics-of-diablo-iv) |
 | Diablo IV | 2023 | M.A.Moniem | [\[地址\]](https://mamoniem.com/behind-the-pretty-frames-diablo-iv/) |
+| Cities: Skylines 2 | 2023 | Paavo Huhtala | [\[地址\]](https://blog.paavo.me/cities-skylines-2-performance/) |
 
 
 [^GTAV]: 分 3 部分 
