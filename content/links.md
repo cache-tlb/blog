@@ -73,6 +73,7 @@ toc:
 - Comfy - 基于 Rust 的 2D 游戏引擎: [\[Home\]](https://comfyengine.org/) | [\[Github\]](https://github.com/darthdeus/comfy)
 - Esoterica: [\[Home\]](https://www.esotericaengine.com/) | [\[Github\]](https://github.com/BobbyAnguelov/Esoterica)
 - Halley - A lightweight game engine written in modern C++: [\[Github\]](https://github.com/amzeratul/halley)
+- Nebula engine: [\[Home\]](https://nebulatrifid.org/) | [\[Github\]](https://github.com/gscept/nebula)
 - SpartanEngine: [\[Github\]](https://github.com/PanosK92/SpartanEngine)
 - Mojoc - 开源, 纯C的手游引擎: [\[Github\]](https://github.com/scottcgi/Mojoc)
 - raylib - 极简的游戏引擎，无编辑器，基于 OpenGL: [\[Home\]](https://www.raylib.com/) | [\[Github\]](https://github.com/raysan5/raylib)
@@ -203,6 +204,7 @@ toc:
 - yuzu - 使用 C++ 编写的 NS 模拟器: [\[Home\]](https://yuzu-emu.org/) | [\[Github\]](https://github.com/yuzu-emu/yuzu)
 - Kyty - PS4&PS5 模拟器，早期开发阶段: [\[Github\]](https://github.com/InoriRus/Kyty)
 - bsnes - FC/NES 模拟器: [\[Home\]](https://bsnes.dev/) | [\[Github\]](https://github.com/bsnes-emu/bsnes)
+- nostalgist - JS 版的 FC/世嘉MD 模拟器: [\[Home\]](https://nostalgist.js.org/) | [\[Github\]](https://github.com/arianrhodsandlot/nostalgist)
 - higan - 多合一模拟器，包括 FC、GB 等: [\[Home\]](https://higan.dev/) | [\[Github\]](https://github.com/higan-emu/higan)
 - MedNES - a cycle-accurate NES emulator written in C++, 支持NROM, MMC1, UNROM, CNROM: [\[Github\]](https://github.com/wpmed92/MedNES)
 - smolnes - 5000 行 C 代码的 NES 模拟器: [\[Github\]](https://github.com/binji/smolnes)
@@ -228,6 +230,7 @@ toc:
 - Nuklear - C语言的跨平台GUI库: [\[Github\]](https://github.com/Immediate-Mode-UI/Nuklear) 
 
 #### 算法/论文代码
+- Graphics Replicability Stamp Initiative - 论文作者提供的代码合集: [\[Link\]](https://www.replicabilitystamp.org/)
 - 一些图形学论文的实现: [\[Link\]](https://github.com/AngelMonica126/GraphicAlgorithm)
 - PhoenixGo - 腾讯的 AlphaGo 实现: [\[Github\]](https://github.com/Tencent/PhoenixGo)
 - White-box Cartoon (CVPR2020) 官方 tensorflow 实现: [\[Github\]](https://github.com/SystemErrorWang/White-box-Cartoonization)
