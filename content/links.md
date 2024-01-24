@@ -20,13 +20,14 @@ toc:
 - Realtime Rendering 4th Edition 参考文献合集: [\[Link\]](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection)
 
 ### 游戏 / 实时渲染
-- Inigo Quilez, 大名鼎鼎的iq大神, ShaderToy的作者: [\[Home\]](https://www.iquilezles.org/) | [\[Articles\]](https://www.iquilezles.org/www/index.htm) | [\[Showcase\]](https://www.shadertoy.com/user/iq)
+- Inigo Quilez, 大名鼎鼎的iq, ShaderToy的作者: [\[Home\]](https://www.iquilezles.org/) | [\[Articles\]](https://www.iquilezles.org/www/index.htm) | [\[Showcase\]](https://www.shadertoy.com/user/iq)
 - Realtime Rendering: [\[Blog\]](http://www.realtimerendering.com/blog/)
 - Aras Pranckevičius@Unity: [\[Home\]](https://aras-p.info/) | [\[Blog\]](https://aras-p.info/blog/) | [\[Twitter\]](https://twitter.com/aras_p) | [\[Github\]](https://github.com/aras-p)
 - Angelo Pesce, Senior Technical Director @ Roblox: [\[Blog\]](https://c0de517e.blogspot.com/) | [\[Twitter\]](https://twitter.com/kenpex)
 - Simon Trümpler, TA of RIME, 介绍了大量主流 3A 游戏的特效分析 : [\[Blog\]](https://simonschreibt.de/)
-- Alan Wolfe @NVidia/Blizzard: [\[Blog\]](https://blog.demofox.org/)
+- Alan Wolfe (demofox) @NVidia/Blizzard: [\[Blog\]](https://blog.demofox.org/)
 - Shawn Hargreaves @D3D Dev team: [\[Home\]](https://shawnhargreaves.com/) | [\[Blog\]](https://shawnhargreaves.com/blogindex.html)
+- 龚敏敏 @Tencent/Microsoft: [\[Blog\]](http://www.klayge.org/) | [\[KlayGE\]](https://github.com/gongminmin/KlayGE)
 - 云风: [\[Blog\]](https://blog.codingnow.com/)
 - 冯乐乐(@miHoYo): [\[Blog\]](http://candycat1992.github.io/)
 - 毛星云(@Tencent) 的图形学笔记: [\[Link\]](https://github.com/QianMo/Game-Programmer-Study-Notes)
@@ -35,6 +36,8 @@ toc:
 - Ma Yidong @Taichi/Unisoft/Netease: [\[Blog\]](http://ma-yidong.com/)
 - Qian Kanglai @Netease: [\[Blog\]](http://qiankanglai.me/)
 - 房燕良(@Alibaba) 的UE4教程: [\[Home\]](https://neil3d.gitee.io/)
+- Jacco Bikker @Utrecht University: [\[Blog\]](https://jacco.ompf2.com/)
+- Arseny Kapoulkine (zeux) @Roblox: [\[Blog\]](https://zeux.io/)
 
 ### 学术
 - Peter Shirley, *Fundamentals of Computer Graphics* (虎书)的作者: [\[Home\]](https://www.petershirley.com/) | [\[Blog\]](http://psgraphics.blogspot.com/)
@@ -106,6 +109,7 @@ toc:
 #### 实时渲染项目
 - kajiya - 实时全局光照渲染器，使用混合光栅化、Compute、光线追踪的pipeline: [\[Github\]](https://github.com/EmbarkStudios/kajiya)
 - AirSim - 微软AI研究院为自动驾驶开发的真实世界模拟器，基于UE/Unity: [\[Home\]](https://microsoft.github.io/AirSim/) | [\[Github\]](https://github.com/microsoft/AirSim)
+- IDKEngine - 亮点为Wavefront Path Tracer和VXGI: [\[Github\]](https://github.com/BoyBaykiller/IDKEngine)
 
 #### 跨平台的硬件接口
 - ANGLE - Google 开发的适用于 Windows, Mac, Linux, iOS, Android 的 OpenGL ES 模拟: [\[Home\]](http://angleproject.org/) | [\[Github\]](https://github.com/google/angle)
@@ -228,7 +232,8 @@ toc:
 - nanogui: [\[Github\]](https://github.com/mitsuba-renderer/nanogui)
 - TGFX - Tencent Graphics 轻量级开源 2D 图形界面库: [\[Github\]](https://github.com/Tencent/tgfx)
 - nana: 跨平台的 C++11/14/17 的GUI库: [\[Home\]](http://nanapro.org/en-us/) | [\[Github\]](https://github.com/cnjinhao/nana)
-- Nuklear - C语言的跨平台GUI库: [\[Github\]](https://github.com/Immediate-Mode-UI/Nuklear) 
+- Nuklear - C语言的跨平台GUI库: [\[Github\]](https://github.com/Immediate-Mode-UI/Nuklear)
+- lil-gui - 简单的 Web UI 控件，基于 DOM: [\[Home\]](https://lil-gui.georgealways.com/) | [\[Github\]](https://github.com/georgealways/lil-gui)
 
 #### 算法/论文代码
 - Graphics Replicability Stamp Initiative - 论文作者提供的代码合集: [\[Link\]](https://www.replicabilitystamp.org/)
