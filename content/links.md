@@ -79,6 +79,7 @@ toc:
 - Nebula engine: [\[Home\]](https://nebulatrifid.org/) | [\[Github\]](https://github.com/gscept/nebula)
 - SpartanEngine: [\[Github\]](https://github.com/PanosK92/SpartanEngine)
 - Mojoc - 开源, 纯C的手游引擎: [\[Github\]](https://github.com/scottcgi/Mojoc)
+- crown engine - 数据驱动的游戏引擎, 支持 Lua 脚本: [\[Home\]](https://www.crownengine.org/) | [\[Github\]](https://github.com/crownengine/crown)
 - raylib - 极简的游戏引擎，无编辑器，基于 OpenGL: [\[Home\]](https://www.raylib.com/) | [\[Github\]](https://github.com/raysan5/raylib)
 - Lumos Engine - 跨平台的3D游戏引擎，支持2D，使用 Lua 脚本，带编辑器: [\[Github\]](https://github.com/jmorton06/Lumos)
 - Rust Game engine 3D: [\[Home\]](https://rg3d.rs/) | [\[Github\]](https://github.com/rg3dengine/rg3d)
@@ -136,6 +137,8 @@ toc:
 - ZENO - 泽森科工: [\[Home\]](https://zenustech.com/) | [\[Github\]](https://github.com/zenustech/zeno)
 - nphysics - Rust 语言 2D 和 3D 的刚体物理引擎: [\[Home\]](https://nphysics.org/) | [\[Github\]](https://github.com/dimforge/nphysics)
 - Google liquidfun - 基于 Box 2D 的刚体/流体模拟: [\[Home\]](http://google.github.io/liquidfun/) | [\[Github\]](https://github.com/google/liquidfun)
+- cannon.js - 轻量级 Web 物理引擎: [\[Home\]](https://schteppe.github.io/cannon.js/) | [\[Github\]](https://github.com/schteppe/cannon.js/)
+- ammo.js - Bullet 的 js 版本: [\[Github\]](https://github.com/kripken/ammo.js)
 
 #### 几何处理
 - CGAL - 计算几何的经典库, header only: [\[Home\]](https://www.cgal.org/) | [\[Github\]](https://github.com/CGAL/cgal)
