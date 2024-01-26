@@ -73,6 +73,7 @@ toc:
 - Defold - 跨平台的 PC、移动端、Web 游戏引擎，主打2D，也支持3D: [\[Home\]](https://defold.com/) | [\[Github\]](https://github.com/defold/defold)
 - Ebitengine - Go语言的简单的2D游戏引擎: [\[Home\]](https://ebitengine.org/) | [\[Github\]](https://github.com/hajimehoshi/ebiten)
 - Ambient - 高性能多人游戏引擎, 支持WebAssembly, Rust, WebGPU: [\[Home\]](https://ambient.run/) | [\[Github\]](https://github.com/AmbientRun/Ambient)
+- ant - 阿里旗下灵犀互娱的引擎: [\[Github\]](https://github.com/ejoy/ant)
 - Comfy - 基于 Rust 的 2D 游戏引擎: [\[Home\]](https://comfyengine.org/) | [\[Github\]](https://github.com/darthdeus/comfy)
 - Esoterica: [\[Home\]](https://www.esotericaengine.com/) | [\[Github\]](https://github.com/BobbyAnguelov/Esoterica)
 - Halley - A lightweight game engine written in modern C++: [\[Github\]](https://github.com/amzeratul/halley)
@@ -80,6 +81,7 @@ toc:
 - SpartanEngine: [\[Github\]](https://github.com/PanosK92/SpartanEngine)
 - Mojoc - 开源, 纯C的手游引擎: [\[Github\]](https://github.com/scottcgi/Mojoc)
 - crown engine - 数据驱动的游戏引擎, 支持 Lua 脚本: [\[Home\]](https://www.crownengine.org/) | [\[Github\]](https://github.com/crownengine/crown)
+- IOLITE - 基于 Voxel 的引擎: [\[Home\]](https://iolite-engine.com/) | [\[Github\]](https://github.com/MissingDeadlines/iolite)
 - raylib - 极简的游戏引擎，无编辑器，基于 OpenGL: [\[Home\]](https://www.raylib.com/) | [\[Github\]](https://github.com/raysan5/raylib)
 - Lumos Engine - 跨平台的3D游戏引擎，支持2D，使用 Lua 脚本，带编辑器: [\[Github\]](https://github.com/jmorton06/Lumos)
 - Rust Game engine 3D: [\[Home\]](https://rg3d.rs/) | [\[Github\]](https://github.com/rg3dengine/rg3d)
@@ -111,6 +113,9 @@ toc:
 - kajiya - 实时全局光照渲染器，使用混合光栅化、Compute、光线追踪的pipeline: [\[Github\]](https://github.com/EmbarkStudios/kajiya)
 - AirSim - 微软AI研究院为自动驾驶开发的真实世界模拟器，基于UE/Unity: [\[Home\]](https://microsoft.github.io/AirSim/) | [\[Github\]](https://github.com/microsoft/AirSim)
 - IDKEngine - 亮点为Wavefront Path Tracer和VXGI: [\[Github\]](https://github.com/BoyBaykiller/IDKEngine)
+- Castor3D: [\[Home\]](https://dragonjoker.github.io/Castor3D/) | [\[Github\]](https://github.com/DragonJoker/Castor3D)
+- CatDogEngine: [\[Github\]](https://github.com/CatDogEngine/CatDogEngine)
+- Hyperion Engine - 亮点：DDGI, Parallel command list recording: [\[Github\]](https://github.com/krait-games/hyperion-engine)
 
 #### 跨平台的硬件接口
 - ANGLE - Google 开发的适用于 Windows, Mac, Linux, iOS, Android 的 OpenGL ES 模拟: [\[Home\]](http://angleproject.org/) | [\[Github\]](https://github.com/google/angle)
