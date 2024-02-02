@@ -108,6 +108,7 @@ toc:
 - PixiJS - 2D Canvas 渲染引擎: [\[Home\]](https://pixijs.com/) | [\[Github\]](https://github.com/pixijs/pixijs)
 - Pixi3D - PixiJS 的 3D 版: [\[Home\]](https://pixi3d.org/) | [\[Github\]](https://github.com/jnsmalm/pixi3d)
 - micro{gl} - 仅头文件的软光栅实现，不依赖其他三方库及 STL: [\[Home\]](https://micro-gl.github.io/docs/microgl) | [\[Github\]](https://github.com/micro-gl/micro-gl)
+- Shadeup - 基于JS的DSL, 对渲染层抽象, 可让用户专注于实现渲染算法, 而不必关心图形API: [\[Home\]](https://shadeup.dev/) | [\[Github\]](https://github.com/AskingQuestions/shadeup)
 
 #### 实时渲染项目
 - kajiya - 实时全局光照渲染器，使用混合光栅化、Compute、光线追踪的pipeline: [\[Github\]](https://github.com/EmbarkStudios/kajiya)
@@ -270,7 +271,6 @@ toc:
 - hyper - 基于 Electron 框架的终端: [\[Home\]](https://hyper.is/) | [\[Github\]](https://github.com/vercel/hyper)
 - 复古的 CRT 风格 term: [\[Github\]](https://github.com/Swordfish90/cool-retro-term) 
 - quinesnake - 在自己源代码上玩的贪吃蛇: [\[Github\]](https://github.com/taylorconor/quinesnake)
-
 
 
 
