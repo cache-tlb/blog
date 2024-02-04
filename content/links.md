@@ -224,6 +224,7 @@ toc:
 - smolnes - 5000 行 C 代码的 NES 模拟器: [\[Github\]](https://github.com/binji/smolnes)
 - awesomenes - A NES emulator written in Go: [\[Github\]](https://github.com/rbaron/awesomenes)
 - 另一个 Go 语言的 NES 模拟器: [\[Github\]](https://github.com/fogleman/nes)
+- dendy - Go 语言的 NES/FC 模拟器, 支持多人联机 : [\[Github\]](https://github.com/maxpoletaev/dendy)
 - 用 Rust 编写的 NES 模拟器: [\[Github\]](https://github.com/MichaelBurge/nes-emulator)
 - Euphrates - 世嘉主机模拟器: [\[Github\]](https://github.com/mikebenfield/euphrates)
 - melonDS - 任天堂 DS 模拟器: [\[Home\]](http://melonds.kuribo64.net/) | [\[Github\]](https://github.com/Arisotura/melonDS)
