@@ -10,6 +10,7 @@ hiddenFromSearch: true
 
 | 游戏名 | 首发年份 | 分析作者 | 链接 |
 |------|------|------|------|
+| Syndicate | 2012 | Léna Piquet(Froyok) | [\[地址\]](https://www.froyok.fr/blog/2024-01-breakdown-syndicate/) |
 | Grand Theft Auto V | 2013 | Adrian Courrèges | [\[地址\]](https://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/) [^GTAV]| 
 | Middle Earth: Shadow of Mordor | 2014 | Emilio López | [\[地址\]](https://www.elopezr.com/the-rendering-of-middle-earth-shadow-of-mordor/) |
 | Rise of the Tomb Raider | 2015 | Emilio López | [\[地址\]](https://www.elopezr.com/the-rendering-of-rise-of-the-tomb-raider/) | 
