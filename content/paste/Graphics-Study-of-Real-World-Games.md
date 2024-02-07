@@ -10,6 +10,9 @@ hiddenFromSearch: true
 
 | 游戏名 | 首发年份 | 分析作者 | 链接 |
 |------|------|------|------|
+| Shadow of the Colossus | 2005 | Léna Piquet(Froyok) | [\[地址\]](https://www.froyok.fr/blog/2012-10-breakdown-shadow-of-the-colossus-pal-ps2/) |
+| Assassin's Creed II | 2009 | Léna Piquet(Froyok) | [\[地址\]](https://www.froyok.fr/blog/2015-12-breakdown-assassins-creed-ii-2/) |
+| Batman : Arkham City | 2011 | Léna Piquet(Froyok) | [\[地址\]](https://www.froyok.fr/blog/2012-09-breakdown-batman-arkham-city/) |
 | Syndicate | 2012 | Léna Piquet(Froyok) | [\[地址\]](https://www.froyok.fr/blog/2024-01-breakdown-syndicate/) |
 | Grand Theft Auto V | 2013 | Adrian Courrèges | [\[地址\]](https://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/) [^GTAV]| 
 | Middle Earth: Shadow of Mordor | 2014 | Emilio López | [\[地址\]](https://www.elopezr.com/the-rendering-of-middle-earth-shadow-of-mordor/) |
