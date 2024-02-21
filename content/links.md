@@ -199,7 +199,7 @@ toc:
 - OpenTTD - Transport Tycoon Deluxe: [\[Home\]](https://www.openttd.org/) | [\[Github\]](https://github.com/OpenTTD/OpenTTD)
 - PyTouhou - python版东方project: [\[Home\]](https://pytouhou.linkmauve.fr/) | [\[Code\]](https://hg.linkmauve.fr/touhou)
 - Taisei - C语言版东方Project: [\[Home\]](https://taisei-project.org/) | [\[Github\]](https://github.com/taisei-project/taisei)
-- CorsixTH - 主题医院: [\[Home\]](http://corsixth.com/) | [\[Github\]](https://github.com/CorsixTH/CorsixTH)
+- CorsixTH - 主题医院开源重制, 需要游戏数据: [\[Home\]](http://corsixth.com/) | [\[Github\]](https://github.com/CorsixTH/CorsixTH)
 - OpenPAL3 - 仙剑3引擎, 需要正版游戏数据: [\[Home\]](https://3.openpal.io/) | [\[Github\]](https://github.com/dontpanic92/OpenPAL3)
 - fheroes2 - 魔法门之英雄无敌游戏引擎实现: [\[Home\]](https://ihhub.github.io/fheroes2/) | [\[Github\]](https://github.com/ihhub/fheroes2)
 - VCMI - 英雄无敌3开源实现: [\[Home\]](https://vcmi.eu/) | [\[Engine\]](https://github.com/vcmi/vcmi) | [\[Assets\]](https://github.com/vcmi/vcmi-assets)
