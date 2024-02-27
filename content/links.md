@@ -116,7 +116,9 @@ toc:
 - IDKEngine - 亮点为Wavefront Path Tracer和VXGI: [\[Github\]](https://github.com/BoyBaykiller/IDKEngine)
 - Castor3D: [\[Home\]](https://dragonjoker.github.io/Castor3D/) | [\[Github\]](https://github.com/DragonJoker/Castor3D)
 - CatDogEngine: [\[Github\]](https://github.com/CatDogEngine/CatDogEngine)
+- MxEngine: [\[Github\]](https://github.com/asc-community/MxEngine)
 - Hyperion Engine - 亮点：DDGI, Parallel command list recording: [\[Github\]](https://github.com/krait-games/hyperion-engine)
+- Consol3 - 软光栅渲染器, 控制台显示: [\[Github\]](https://github.com/Victormeriqui/Consol3)
 
 #### 跨平台的硬件接口
 - ANGLE - Google 开发的适用于 Windows, Mac, Linux, iOS, Android 的 OpenGL ES 模拟: [\[Home\]](http://angleproject.org/) | [\[Github\]](https://github.com/google/angle)
