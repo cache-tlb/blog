@@ -218,6 +218,7 @@ toc:
 #### 模拟器
 - Ryujinx - 使用 C# 编写的 NS 模拟器: [\[Home\]](https://ryujinx.org/) | [\[Github\]](https://github.com/Ryujinx/Ryujinx)
 - yuzu - 使用 C++ 编写的 NS 模拟器: [\[Home\]](https://yuzu-emu.org/) | [\[Github\]](https://github.com/yuzu-emu/yuzu)
+- suyu - yuzu 的继承者: [\[Home\]](https://suyu.dev/) | [\[Gitlib\]](https://gitlab.com/suyu-emu/suyu)
 - Kyty - PS4&PS5 模拟器，早期开发阶段: [\[Github\]](https://github.com/InoriRus/Kyty)
 - bsnes - FC/NES 模拟器: [\[Home\]](https://bsnes.dev/) | [\[Github\]](https://github.com/bsnes-emu/bsnes)
 - nostalgist - JS 版的 FC/世嘉MD 模拟器: [\[Home\]](https://nostalgist.js.org/) | [\[Github\]](https://github.com/arianrhodsandlot/nostalgist)
@@ -274,6 +275,7 @@ toc:
 - hyper - 基于 Electron 框架的终端: [\[Home\]](https://hyper.is/) | [\[Github\]](https://github.com/vercel/hyper)
 - 复古的 CRT 风格 term: [\[Github\]](https://github.com/Swordfish90/cool-retro-term) 
 - quinesnake - 在自己源代码上玩的贪吃蛇: [\[Github\]](https://github.com/taylorconor/quinesnake)
+- 在浏览器console log中玩 DOOM: [\[Link\]](https://mattcozendey.github.io/) | [\[Github\]](https://github.com/MattCozendey/doom-console-log)
 
 
 
