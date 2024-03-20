@@ -119,6 +119,7 @@ toc:
 - MxEngine: [\[Github\]](https://github.com/asc-community/MxEngine)
 - Hyperion Engine - 亮点：DDGI, Parallel command list recording: [\[Github\]](https://github.com/krait-games/hyperion-engine)
 - Consol3 - 软光栅渲染器, 控制台显示: [\[Github\]](https://github.com/Victormeriqui/Consol3)
+- Skylicht Engine - 跨平台C++游戏引擎, 支持Android, IOS, Win32/Win64, UWP, Linux, MacOS, HTML5: [\[Github\]](https://github.com/skylicht-lab/skylicht-engine)
 
 #### 跨平台的硬件接口
 - ANGLE - Google 开发的适用于 Windows, Mac, Linux, iOS, Android 的 OpenGL ES 模拟: [\[Home\]](http://angleproject.org/) | [\[Github\]](https://github.com/google/angle)
@@ -135,6 +136,8 @@ toc:
 - tungsten - 诞生于 ETH Image Synthesis 课程项目的离线渲染器: [\[Github\]](https://github.com/tunabrain/tungsten)
 - Apple Seed: [\[Home\]](https://appleseedhq.net/) | [\[Github\]](https://github.com/appleseedhq/appleseed)
 
+#### 离线渲染项目
+- Atrc: [\[Github\]](https://github.com/AirGuanZ/Atrc)
 
 ### 其他开源项目
 
