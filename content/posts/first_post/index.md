@@ -6,7 +6,7 @@ showToc: false
 toc:
   enable: false
 tikz: true
-draft: false
+draft: true
 ---
 
 这是第一个帖子^_^。
