@@ -27,6 +27,7 @@ hiddenFromSearch: true
 | DOOM (2016) | 2016 | Simon Coenen | [\[之二\]](https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html) |
 | Resident Evil 7: Biohazard | 2017 | M.A.Moniem | [\[地址\]](https://mamoniem.com/behind-the-pretty-frames-resident-evil/) |
 | Shadow Fight 3 | 2017 | Roman Tersky | [\[地址\]](https://web.archive.org/web/20190215095943/http://www.gamasutra.com/blogs/RomanTersky/20190215/336349/Rendering_process_in_Shadow_Fight_3.php) |
+| The Surge | 2017 | Philip Hammer | [\[地址\]](https://www.slideshare.net/philiphammer/dissecting-the-rendering-of-the-surge) |
 | Jurassic World: Evolution | 2018 | Emilio López | [\[地址\]](https://www.elopezr.com/the-rendering-of-jurassic-world-evolution/) |
 | Ni No Kuni II(二之国2) | 2018 | Thomas Poulet | [\[地址\]](https://blog.thomaspoulet.fr/ninokuni2-frame/) |
 | God of War (PC) | 2018 | M.A.Moniem | [\[地址\]](https://www.mamoniem.com/behind-the-pretty-frames-god-of-war/) |
