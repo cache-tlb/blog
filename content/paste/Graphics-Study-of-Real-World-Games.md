@@ -21,6 +21,7 @@ hiddenFromSearch: true
 | Metal Gear Solid V | 2015 | Adrian Courrèges | [\[地址\]](https://www.adriancourreges.com/blog/2017/12/15/mgs-v-graphics-study/) |
 | The Witness | 2016 | Thomas Poulet | [\[地址\]](https://blog.thomaspoulet.fr/the-witness-frame-part-1/) [^Witness] |
 | DOOM (2016) | 2016 | Adrian Courrèges | [\[地址\]](https://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/) |
+| Resident Evil 7: Biohazard | 2017 | M.A.Moniem | [\[地址\]](https://mamoniem.com/behind-the-pretty-frames-resident-evil/) |
 | Jurassic World: Evolution | 2018 | Emilio López | [\[地址\]](https://www.elopezr.com/the-rendering-of-jurassic-world-evolution/) |
 | Ni No Kuni II(二之国2) | 2018 | Thomas Poulet | [\[地址\]](https://blog.thomaspoulet.fr/ninokuni2-frame/) |
 | God of War (PC) | 2018 | M.A.Moniem | [\[地址\]](https://www.mamoniem.com/behind-the-pretty-frames-god-of-war/) |
