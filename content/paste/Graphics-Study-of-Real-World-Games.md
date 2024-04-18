@@ -34,8 +34,8 @@ hiddenFromSearch: true
 | Shadow of the Tomb Raider | 2018 | m0radin | [\[地址\]](https://morad.in/2019/04/19/under-the-hood-of-shadow-of-the-tomb-raider/) |
 | A Plague Tale: Innocence | 2019  | m0radin |  [\[地址\]](https://morad.in/2019/06/16/dissecting-a-plague-tale-innocence/) |
 | Death Stranding | 2019 | M.A.Moniem | [\[地址\]](https://mamoniem.com/behind-the-pretty-frames-death-stranding/) |
-| Metro: Exodus | 2019 | m0radin | [\[之一\]](https://morad.in/2019/03/27/observations-about-the-rendering-of-metro-exodus/), [\[之二\]](https://morad.in/2019/04/05/more-observations-in-metro-exodus/) |
-| Mortal Kombat 11 | 2019 | Alain Galvan | (https://alain.xyz/blog/frame-analysis-mk11) |
+| Metro: Exodus | 2019 | m0radin | [\[Part 1\]](https://morad.in/2019/03/27/observations-about-the-rendering-of-metro-exodus/), [\[Part 2\]](https://morad.in/2019/04/05/more-observations-in-metro-exodus/) |
+| Mortal Kombat 11 | 2019 | Alain Galvan | [\[地址\]](https://alain.xyz/blog/frame-analysis-mk11) |
 | Resident Evil 2 | 2019 | Anton Schreiner | [\[地址\]](https://aschrein.github.io/2019/08/01/re2_breakdown.html) |
 | Mafia: Definitive Edition | 2020 | Emilio López | [\[地址\]](https://www.elopezr.com/the-rendering-of-mafia-definitive-edition/) |
 | Cyberpunk 2077 | 2020 | Angelo Pesce | [\[之一\]](https://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html) |
