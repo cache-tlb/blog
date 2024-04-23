@@ -28,7 +28,7 @@ $$a+b+c=1 \tag{4} $$
 
 <div>
 <center>
-<img src="./illustration.svg/" />
+<img src="./illustration.svg" />
 </center>
 </div>
 
