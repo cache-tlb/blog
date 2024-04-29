@@ -272,6 +272,7 @@ toc:
 - 1024 字节的国际象棋AI: [\[Link\]](https://vole.wtf/kilobytes-gambit/)
 - work adventure - 一个开源版的Gather.town: [\[Home\]](workadventu.re) | [\[Github\]](https://github.com/thecodingmachine/workadventure)
 - Table Maker for Modern C++: [\[Github\]](https://github.com/p-ranav/tabulate)
+- MS-DOS 官方开源: [\[Github\]](https://github.com/microsoft/MS-DOS)
 - Windows计算器官方开源: [\[Github\]](https://github.com/microsoft/calculator)
 - 80列x23行代码的俄罗斯方块: [\[Github\]](https://github.com/taylorconor/tinytetris)
 - ieaseMusic - 一个华丽的第三方网易云音乐客户端: [\[Github\]](https://github.com/trazyn/ieaseMusic)
