@@ -159,6 +159,7 @@ toc:
 - PointCloudLibrary (PCL): [\[Home\]](https://pointclouds.org/) | [\[Github\]](https://github.com/PointCloudLibrary/pcl)
 - Open3D - 点云处理库: [\[Home\]](http://www.open3d.org/) | [\[Github\]](https://github.com/isl-org/Open3D)
 - Gmsh - 用于有限元的网格生成工具，支持 2D / 3D 三角化, 可用于 NavMesh 生成, Probe 四面体网格生成等: [\[Home\]](https://gmsh.info/) | [\[Repo\]](https://gitlab.onelab.info/gmsh/gmsh/) | [\[Code\]](https://gmsh.info/src/gmsh-4.11.1-source.tgz)
+- xatlas - 实用的模型参数化工具，被用于Filament, Godot, Skylicht, UNIGINE, Wicked Engine等: [\[Github\]](https://github.com/jpcy/xatlas)
 
 
 #### 开源游戏
