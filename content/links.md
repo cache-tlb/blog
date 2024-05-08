@@ -252,6 +252,7 @@ toc:
 - nana: 跨平台的 C++11/14/17 的GUI库: [\[Home\]](http://nanapro.org/en-us/) | [\[Github\]](https://github.com/cnjinhao/nana)
 - Nuklear - C语言的跨平台GUI库: [\[Github\]](https://github.com/Immediate-Mode-UI/Nuklear)
 - lil-gui - 简单的 Web UI 控件，基于 DOM: [\[Home\]](https://lil-gui.georgealways.com/) | [\[Github\]](https://github.com/georgealways/lil-gui)
+- Tweakpane - Web UI: [\[Home\]](https://tweakpane.github.io/docs/) | [\[Github\]](https://github.com/cocopon/tweakpane)
 
 #### 算法/论文代码
 - Graphics Replicability Stamp Initiative - 论文作者提供的代码合集: [\[Link\]](https://www.replicabilitystamp.org/)
