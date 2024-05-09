@@ -164,6 +164,7 @@ toc:
 #### 开源游戏
 - Mindustry: A sandbox tower-defense game. [\[Home\]](https://mindustrygame.github.io/)| [\[Github\]](https://github.com/Anuken/Mindustry)
 - Cataclysm: Dark Days Ahead. [\[Home\]](https://cataclysmdda.org/) | [\[Github\]](https://github.com/CleverRaven/Cataclysm-DDA/)
+- Descent 3. [\[Github\]](https://github.com/DescentDevelopers/Descent3)
 
 #### 经典游戏开源版
 - 收集开源游戏的网站: [\[Link1\]](https://osgameclones.com/) | [\[Link2\]](https://archive.org/details/gamesourcecode) | [\[Link3\]](https://trilarion.github.io/opensourcegames/) | [\[Link4\]](https://github.com/leereilly/games/blob/master/README.md) | [\[Link5\]](https://github.com/michelpereira/awesome-open-source-games)
