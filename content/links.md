@@ -109,6 +109,7 @@ toc:
 - Pixi3D - PixiJS 的 3D 版: [\[Home\]](https://pixi3d.org/) | [\[Github\]](https://github.com/jnsmalm/pixi3d)
 - micro{gl} - 仅头文件的软光栅实现，不依赖其他三方库及 STL: [\[Home\]](https://micro-gl.github.io/docs/microgl) | [\[Github\]](https://github.com/micro-gl/micro-gl)
 - Shadeup - 基于JS的DSL, 对渲染层抽象, 可让用户专注于实现渲染算法, 而不必关心图形API: [\[Home\]](https://shadeup.dev/) | [\[Github\]](https://github.com/AskingQuestions/shadeup)
+- Two - C++ 的快速图形应用开发工具, 支持Live Coding: [\[Github\]](https://github.com/hugoam/two)
 
 #### 实时渲染项目
 - kajiya - 实时全局光照渲染器，使用混合光栅化、Compute、光线追踪的pipeline: [\[Github\]](https://github.com/EmbarkStudios/kajiya)
@@ -159,6 +160,7 @@ toc:
 - PointCloudLibrary (PCL): [\[Home\]](https://pointclouds.org/) | [\[Github\]](https://github.com/PointCloudLibrary/pcl)
 - Open3D - 点云处理库: [\[Home\]](http://www.open3d.org/) | [\[Github\]](https://github.com/isl-org/Open3D)
 - Gmsh - 用于有限元的网格生成工具，支持 2D / 3D 三角化, 可用于 NavMesh 生成, Probe 四面体网格生成等: [\[Home\]](https://gmsh.info/) | [\[Repo\]](https://gitlab.onelab.info/gmsh/gmsh/) | [\[Code\]](https://gmsh.info/src/gmsh-4.11.1-source.tgz)
+- xatlas - 实用的模型参数化工具，被用于Filament, Godot, Skylicht, UNIGINE, Wicked Engine等: [\[Github\]](https://github.com/jpcy/xatlas)
 
 
 #### 开源游戏
@@ -251,6 +253,7 @@ toc:
 - nana: 跨平台的 C++11/14/17 的GUI库: [\[Home\]](http://nanapro.org/en-us/) | [\[Github\]](https://github.com/cnjinhao/nana)
 - Nuklear - C语言的跨平台GUI库: [\[Github\]](https://github.com/Immediate-Mode-UI/Nuklear)
 - lil-gui - 简单的 Web UI 控件，基于 DOM: [\[Home\]](https://lil-gui.georgealways.com/) | [\[Github\]](https://github.com/georgealways/lil-gui)
+- Tweakpane - Web UI: [\[Home\]](https://tweakpane.github.io/docs/) | [\[Github\]](https://github.com/cocopon/tweakpane)
 
 #### 算法/论文代码
 - Graphics Replicability Stamp Initiative - 论文作者提供的代码合集: [\[Link\]](https://www.replicabilitystamp.org/)
@@ -273,6 +276,7 @@ toc:
 - 1024 字节的国际象棋AI: [\[Link\]](https://vole.wtf/kilobytes-gambit/)
 - work adventure - 一个开源版的Gather.town: [\[Home\]](workadventu.re) | [\[Github\]](https://github.com/thecodingmachine/workadventure)
 - Table Maker for Modern C++: [\[Github\]](https://github.com/p-ranav/tabulate)
+- MS-DOS 官方开源: [\[Github\]](https://github.com/microsoft/MS-DOS)
 - Windows计算器官方开源: [\[Github\]](https://github.com/microsoft/calculator)
 - 80列x23行代码的俄罗斯方块: [\[Github\]](https://github.com/taylorconor/tinytetris)
 - ieaseMusic - 一个华丽的第三方网易云音乐客户端: [\[Github\]](https://github.com/trazyn/ieaseMusic)
