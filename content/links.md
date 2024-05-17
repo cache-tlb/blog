@@ -121,10 +121,12 @@ toc:
 - Hyperion Engine - 亮点：DDGI, Parallel command list recording: [\[Github\]](https://github.com/krait-games/hyperion-engine)
 - Consol3 - 软光栅渲染器, 控制台显示: [\[Github\]](https://github.com/Victormeriqui/Consol3)
 - Skylicht Engine - 跨平台C++游戏引擎, 支持Android, IOS, Win32/Win64, UWP, Linux, MacOS, HTML5: [\[Github\]](https://github.com/skylicht-lab/skylicht-engine)
+- 一个matcap素材库: [\[Github\]](https://github.com/nidorx/matcaps)
 
 #### 跨平台的硬件接口
 - ANGLE - Google 开发的适用于 Windows, Mac, Linux, iOS, Android 的 OpenGL ES 模拟: [\[Home\]](http://angleproject.org/) | [\[Github\]](https://github.com/google/angle)
 - IGL - Facebook 开发的跨平台的现代硬件接口抽象, 支持 OpenGL, Metal, Vulkan: [\[Github\]](https://github.com/facebook/igl)
+- MethaneKit: [\[Github\]](https://github.com/MethanePowered/MethaneKit)
 
 #### 离线渲染
 - blender: [\[Home\]](https://www.blender.org/) | [\[Github\]](https://github.com/blender/blender)
