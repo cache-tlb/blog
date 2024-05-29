@@ -59,6 +59,7 @@ toc:
 - Godot: [\[Home\]](https://godotengine.org/) | [\[Github\]](https://github.com/godotengine/godot)
 - MonoGame - 代表作包括 Celeste、Fez、Bastion、星露谷物语、尾牙: [\[Home\]](https://www.monogame.net/) | [\[Github\]](https://github.com/MonoGame/MonoGame)
 - libGDX - 跨平台的 Java 游戏引擎，使用 OpenGL (ES) 渲染，支持Windows/Linux/macOS/Android/iOS/web，代表作有Spine编辑器、Slay the Spire、Mindustry、Pathway: [\[Home\]](https://libgdx.com/) | [\[Github\]](https://github.com/libgdx/libgdx)
+- LayaAir - 知名的HTML5游戏引擎: [\[Home\]](https://www.layaair.com/) | [\[Github\]](https://github.com/layabox/LayaAir)
 - Piccolo (formerly Pilot) – mini game engine for games104: [\[Home\]](https://games104.boomingtech.com/) | [\[Github\]](https://github.com/BoomingTech/Piccolo/)
 - Heaps.io - 代表作 Dead Cells, Northgard, Evoland: [\[Home\]](https://heaps.io/) | [\[Github\]](https://github.com/HeapsIO/heaps)
 - Flax Engine: [\[Home\]](https://flaxengine.com/) | [\[Github\]](https://github.com/FlaxEngine/FlaxEngine)
