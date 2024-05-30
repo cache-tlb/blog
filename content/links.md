@@ -281,6 +281,7 @@ toc:
 - Table Maker for Modern C++: [\[Github\]](https://github.com/p-ranav/tabulate)
 - MS-DOS 官方开源: [\[Github\]](https://github.com/microsoft/MS-DOS)
 - Windows计算器官方开源: [\[Github\]](https://github.com/microsoft/calculator)
+- Adobe Photoshop 1.0.1 Source Code: [\[Link\]](https://computerhistory.org/blog/adobe-photoshop-source-code/) | [\[Github Mirror\]](https://github.com/amix/photoshop)
 - 80列x23行代码的俄罗斯方块: [\[Github\]](https://github.com/taylorconor/tinytetris)
 - ieaseMusic - 一个华丽的第三方网易云音乐客户端: [\[Github\]](https://github.com/trazyn/ieaseMusic)
 - hyper - 基于 Electron 框架的终端: [\[Home\]](https://hyper.is/) | [\[Github\]](https://github.com/vercel/hyper)
