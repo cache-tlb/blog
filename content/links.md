@@ -123,6 +123,7 @@ toc:
 - Consol3 - 软光栅渲染器, 控制台显示: [\[Github\]](https://github.com/Victormeriqui/Consol3)
 - Skylicht Engine - 跨平台C++游戏引擎, 支持Android, IOS, Win32/Win64, UWP, Linux, MacOS, HTML5: [\[Github\]](https://github.com/skylicht-lab/skylicht-engine)
 - 一个matcap素材库: [\[Github\]](https://github.com/nidorx/matcaps)
+- Q2VKPT - 使用Vulkan和RTX进行实时path tracing 的 Quake II引擎: [\[Home\]](https://brechpunkt.de/q2vkpt/) | [\[Github\]](https://github.com/cschied/q2vkpt/)
 
 #### 跨平台的硬件接口
 - ANGLE - Google 开发的适用于 Windows, Mac, Linux, iOS, Android 的 OpenGL ES 模拟: [\[Home\]](http://angleproject.org/) | [\[Github\]](https://github.com/google/angle)
