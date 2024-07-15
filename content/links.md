@@ -270,6 +270,9 @@ toc:
 - Neural Artistic Style: [\[Github\]](https://github.com/andersbll/neural_artistic_style)
 - Karpathy 的 NeuralTalk: [\[Github\]](https://github.com/karpathy/neuraltalk)
 
+#### 高性能计算
+- gpu.cpp - 跨平台的native GPU计算库，使用 WebGPU 作为底层接口: [\[Github\]](https://github.com/AnswerDotAI/gpu.cpp)
+
 #### 实用库
 - glm - 提供 C++ 下对应于 glsl 的向量和矩阵类型和运算，header only : [\[Home\]](https://glm.g-truc.net/) | [\[Github\]](https://github.com/g-truc/glm)
 - spdlog - 高性能的 C++ 日志库，header only: [\[Github\]](https://github.com/gabime/spdlog)
