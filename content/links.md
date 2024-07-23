@@ -203,6 +203,7 @@ toc:
 - gzdoom: 基于OpenGL和Vulkan的Doom2: [\[Home\]](https://zdoom.org/index) | [\[Github\]](https://github.com/coelckers/gzdoom)
 - dhewm - Doom3 source port: [\[Home\]](https://dhewm3.org/) | [\[Github\]](https://github.com/dhewm/dhewm3)
 - Doom 1 & 2 Renderer written in Rust: [\[Github\]](https://github.com/cristicbz/rust-doom)
+- OpenAWE - Alan Wake 引擎开源实现: [\[Github\]](https://github.com/OpenAWE-Project/OpenAWE)
 - OpenXRay - S.T.A.L.K.E.R.系列游戏引擎复刻: [\[Github\]](https://github.com/OpenXRay/xray-16)
 - FlightGear - 微软飞行模拟: [\[SourceForge\]](https://sourceforge.net/projects/flightgear/)
 - re3 - GTA3 引擎的逆向工程: [\[Github\]](https://github.com/GTAmodding/re3)
