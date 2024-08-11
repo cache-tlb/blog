@@ -135,6 +135,7 @@ toc:
 - PBRT: [\[Home\]](https://pbrt.org/) | [\[Book\]](https://www.pbr-book.org/) | [\[Code\]](https://github.com/mmp/pbrt-v4) | [\[中文翻译\]](https://github.com/kanition/pbrtbook)
 - mitsuba2: [\[Home\]](http://www.mitsuba-renderer.org/) | [\[Github\]](https://github.com/mitsuba-renderer/mitsuba2)
 - MoonRay - DreamWorks 的 MCRT 渲染器: [\[Home\]](https://openmoonray.org/) | [\[Github\]](https://github.com/dreamworksanimation/openmoonray)
+- Aurora - Autodesk 的硬件离线渲染器: [\[Github\]](https://github.com/Autodesk/Aurora)
 - Embree - Intel提供的高性能光线-场景求交库: [\[Home\]](http://embree.github.io/) | [\[Github\]](https://github.com/embree/embree)
 - pov ray - 始于 1980 年代的光线追踪渲染器: [\[Home\]](http://www.povray.org/) | [\[Github\]](https://github.com/POV-Ray/povray)
 - G3D by casual-effects, 支持离线和实时渲染: [\[Home\]](https://casual-effects.com/g3d/www/index.html) | [\[SVN\]](svn://svn.code.sf.net/p/g3d/code/) | [\[SourceForge\]](https://sourceforge.net/p/g3d/code/HEAD/tree/)
