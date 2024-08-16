@@ -230,7 +230,8 @@ toc:
 #### 模拟器
 - Ryujinx - 使用 C# 编写的 NS 模拟器: [\[Home\]](https://ryujinx.org/) | [\[Github\]](https://github.com/Ryujinx/Ryujinx)
 - yuzu - 使用 C++ 编写的 NS 模拟器: [\[Home\]](https://yuzu-emu.org/) | [\[Github\]](https://github.com/yuzu-emu/yuzu)
-- suyu - yuzu 的继承者: [\[Home\]](https://suyu.dev/) | [\[Gitlib\]](https://gitlab.com/suyu-emu/suyu)
+- suyu - yuzu 的继承者: [\[Home\]](https://suyu.dev/) | [\[Gitlab\]](https://gitlab.com/suyu-emu/suyu)
+- ShadPS4 - Windows,Linux,MacOS 的 PS4 模拟器: [\[Home\]](https://shadps4.net/) | [\[Github\]](https://github.com/shadps4-emu/shadPS4/)
 - Kyty - PS4&PS5 模拟器，早期开发阶段: [\[Github\]](https://github.com/InoriRus/Kyty)
 - bsnes - FC/NES 模拟器: [\[Home\]](https://bsnes.dev/) | [\[Github\]](https://github.com/bsnes-emu/bsnes)
 - nostalgist - JS 版的 FC/世嘉MD 模拟器: [\[Home\]](https://nostalgist.js.org/) | [\[Github\]](https://github.com/arianrhodsandlot/nostalgist)
