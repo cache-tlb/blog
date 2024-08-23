@@ -282,6 +282,7 @@ toc:
 - Magic Enum C++ - 提供 enum class 的静态反射: [\[Github\]](https://github.com/Neargye/magic_enum) 
 
 #### Cool stuff
+- 数学证明语言Lean: [\[Home\]](https://lean-lang.org/) | [\[Blog\]](https://lean-lang.org/blog/) | [\[Github\]](https://github.com/leanprover/lean4)
 - A C++ program that can do Raytracing in the console. [\[Github\]](https://github.com/DinoZ1729/Ray)
 - 1024 字节的国际象棋AI: [\[Link\]](https://vole.wtf/kilobytes-gambit/)
 - work adventure - 一个开源版的Gather.town: [\[Home\]](workadventu.re) | [\[Github\]](https://github.com/thecodingmachine/workadventure)
