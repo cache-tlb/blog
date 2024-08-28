@@ -115,6 +115,7 @@ toc:
 #### 实时渲染项目
 - kajiya - 实时全局光照渲染器，使用混合光栅化、Compute、光线追踪的pipeline: [\[Github\]](https://github.com/EmbarkStudios/kajiya)
 - AirSim - 微软AI研究院为自动驾驶开发的真实世界模拟器，基于UE/Unity: [\[Home\]](https://microsoft.github.io/AirSim/) | [\[Github\]](https://github.com/microsoft/AirSim)
+- Gigi - EA 开发的实时渲染快速原型工具: [\[Github\]](https://github.com/electronicarts/gigi)
 - IDKEngine - 亮点为Wavefront Path Tracer和VXGI: [\[Github\]](https://github.com/BoyBaykiller/IDKEngine)
 - Castor3D: [\[Home\]](https://dragonjoker.github.io/Castor3D/) | [\[Github\]](https://github.com/DragonJoker/Castor3D)
 - CatDogEngine: [\[Github\]](https://github.com/CatDogEngine/CatDogEngine)
