@@ -129,6 +129,7 @@ toc:
 #### 跨平台的硬件接口
 - ANGLE - Google 开发的适用于 Windows, Mac, Linux, iOS, Android 的 OpenGL ES 模拟: [\[Home\]](http://angleproject.org/) | [\[Github\]](https://github.com/google/angle)
 - IGL - Facebook 开发的跨平台的现代硬件接口抽象, 支持 OpenGL, Metal, Vulkan: [\[Github\]](https://github.com/facebook/igl)
+- FNA3D - FNA 的 3D 库，FNA 是 XNA 的重新实现: [\[Home\]](http://fna-xna.github.io/) | [\[Github\]](https://github.com/FNA-XNA/FNA3D)
 - MethaneKit: [\[Github\]](https://github.com/MethanePowered/MethaneKit)
 
 #### 离线渲染
@@ -278,6 +279,8 @@ toc:
 - gpu.cpp - 跨平台的native GPU计算库，使用 WebGPU 作为底层接口: [\[Github\]](https://github.com/AnswerDotAI/gpu.cpp)
 
 #### 实用库
+- GLFW - 跨平台的窗口系统, 支持Windows, macOS, Linux; OpenGL, GLES, Vulkan: [\[Home\]](https://www.glfw.org/) | [\[Github\]](https://github.com/glfw/glfw)
+- SDL - Simple DirectMedia Layer, 提供访问底层硬件的接口, 包括声卡, 键盘, 鼠标, 手柄, 图形硬件, 支持Windows, macOS, Linux, iOS, and Android : [\[Home\]](https://libsdl.org/) | [\[Github\]](https://github.com/libsdl-org/SDL)
 - glm - 提供 C++ 下对应于 glsl 的向量和矩阵类型和运算，header only : [\[Home\]](https://glm.g-truc.net/) | [\[Github\]](https://github.com/g-truc/glm)
 - spdlog - 高性能的 C++ 日志库，header only: [\[Github\]](https://github.com/gabime/spdlog)
 - Magic Enum C++ - 提供 enum class 的静态反射: [\[Github\]](https://github.com/Neargye/magic_enum) 
