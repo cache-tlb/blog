@@ -283,7 +283,8 @@ toc:
 - SDL - Simple DirectMedia Layer, 提供访问底层硬件的接口, 包括声卡, 键盘, 鼠标, 手柄, 图形硬件, 支持Windows, macOS, Linux, iOS, and Android : [\[Home\]](https://libsdl.org/) | [\[Github\]](https://github.com/libsdl-org/SDL)
 - glm - 提供 C++ 下对应于 glsl 的向量和矩阵类型和运算，header only : [\[Home\]](https://glm.g-truc.net/) | [\[Github\]](https://github.com/g-truc/glm)
 - spdlog - 高性能的 C++ 日志库，header only: [\[Github\]](https://github.com/gabime/spdlog)
-- Magic Enum C++ - 提供 enum class 的静态反射: [\[Github\]](https://github.com/Neargye/magic_enum) 
+- Magic Enum C++ - 提供 enum class 的静态反射: [\[Github\]](https://github.com/Neargye/magic_enum)
+- RGFW - 轻量级的GLFW替代, 仅头文件: [\[Github\]](https://github.com/ColleagueRiley/RGFW)
 
 #### Cool stuff
 - 数学证明语言Lean: [\[Home\]](https://lean-lang.org/) | [\[Blog\]](https://lean-lang.org/blog/) | [\[Github\]](https://github.com/leanprover/lean4)
