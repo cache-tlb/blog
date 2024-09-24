@@ -88,6 +88,7 @@ toc:
 - Rust Game engine 3D: [\[Home\]](https://rg3d.rs/) | [\[Github\]](https://github.com/rg3dengine/rg3d)
 - BabylonJS: [\[Home\]](https://www.babylonjs.com/) | [\[Github\]](https://github.com/BabylonJS/Babylon.js)
 - PlayCanvas: [\[Home\]](https://playcanvas.com/) | [\[Github\]](https://github.com/playcanvas/engine)
+- ClayGL: [\[Home\]](https://claygl.xyz/) | [\[Github\]](https://github.com/pissang/claygl)
 - Phaser - 基于 Pixi.js 的 2D 游戏引擎: [\[Home\]](https://phaser.io/) | [\[Github\]](https://github.com/photonstorm/phaser)
 - WebGLStudio.js - 一个web端游戏引擎: [\[Home\]](https://webglstudio.org/) | [\[Github\]](https://github.com/jagenjo/webglstudio.js)
 - ImpactJS - Web 2D 游戏引擎: [\[Home\]](https://impactjs.com/) | [\[Github\]](https://github.com/phoboslab/impact) | [\[Showcase\]](https://impactjs.com/games)
