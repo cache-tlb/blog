@@ -31,6 +31,7 @@ hiddenFromSearch: true
 | Jurassic World: Evolution | 2018 | Emilio López | [\[地址\]](https://www.elopezr.com/the-rendering-of-jurassic-world-evolution/) |
 | Ni No Kuni II(二之国2) | 2018 | Thomas Poulet | [\[地址\]](https://blog.thomaspoulet.fr/ninokuni2-frame/) |
 | God of War (PC) | 2018 | M.A.Moniem | [\[地址\]](https://www.mamoniem.com/behind-the-pretty-frames-god-of-war/) |
+| Detroit Become Human | 2018 | M.A.Moniem | [\[地址\]](https://mamoniem.com/behind-the-pretty-frames-detroit-become-human/) |
 | Red Dead Redemption 2 | 2018 | Hüseyin | [\[地址\]](https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/) |
 | Shadow of the Tomb Raider | 2018 | m0radin | [\[地址\]](https://morad.in/2019/04/19/under-the-hood-of-shadow-of-the-tomb-raider/) |
 | A Plague Tale: Innocence | 2019  | m0radin |  [\[地址\]](https://morad.in/2019/06/16/dissecting-a-plague-tale-innocence/) |
