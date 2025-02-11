@@ -231,7 +231,7 @@ toc:
 - Jazz Jackrabbit 2 开源实现: [\[Github\]](https://github.com/deathkiller/jazz2-native)
 
 #### 模拟器
-- Ryujinx - 使用 C# 编写的 NS 模拟器: [\[Home\]](https://ryujinx.org/) | [\[Github\]](https://github.com/Ryujinx/Ryujinx)
+- Ryujinx - 使用 C# 编写的 NS 模拟器: [\[Github\]](https://github.com/Ryubing/Ryujinx/) | [\[Mirror\]](https://github.com/ryujinx-mirror/ryujinx)
 - yuzu - 使用 C++ 编写的 NS 模拟器: [\[Home\]](https://yuzu-emu.org/) | [\[Github\]](https://github.com/yuzu-emu/yuzu)
 - suyu - yuzu 的继承者: [\[Home\]](https://suyu.dev/) | [\[Gitlab\]](https://gitlab.com/suyu-emu/suyu)
 - ShadPS4 - Windows,Linux,MacOS 的 PS4 模拟器: [\[Home\]](https://shadps4.net/) | [\[Github\]](https://github.com/shadps4-emu/shadPS4/)
