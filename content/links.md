@@ -256,14 +256,15 @@ toc:
 - Visualization Toolkit (VTK) - 3D 数据可视化: [\[Home\]](https://vtk.org/) | [\[Gitlab\]](https://gitlab.kitware.com/vtk/vtk)
 
 
-#### 图形界面
+#### 用户界面
 - Dear ImGui: [\[Github\]](https://github.com/ocornut/imgui)
 - nanogui: [\[Github\]](https://github.com/mitsuba-renderer/nanogui)
 - TGFX - Tencent Graphics 轻量级开源 2D 图形界面库: [\[Github\]](https://github.com/Tencent/tgfx)
 - nana: 跨平台的 C++11/14/17 的GUI库: [\[Home\]](http://nanapro.org/en-us/) | [\[Github\]](https://github.com/cnjinhao/nana)
 - Nuklear - C语言的跨平台GUI库: [\[Github\]](https://github.com/Immediate-Mode-UI/Nuklear)
-- lil-gui - 简单的 Web UI 控件，基于 DOM: [\[Home\]](https://lil-gui.georgealways.com/) | [\[Github\]](https://github.com/georgealways/lil-gui)
-- Tweakpane - Web UI: [\[Home\]](https://tweakpane.github.io/docs/) | [\[Github\]](https://github.com/cocopon/tweakpane)
+- lil-gui - 简单的 Web GUI 控件，基于 DOM: [\[Home\]](https://lil-gui.georgealways.com/) | [\[Github\]](https://github.com/georgealways/lil-gui)
+- Tweakpane - Web GUI: [\[Home\]](https://tweakpane.github.io/docs/) | [\[Github\]](https://github.com/cocopon/tweakpane)
+- leva - Web GUI: [\[Home\]](http://leva.pmnd.rs/) | [\[Github\]](https://github.com/pmndrs/leva)
 
 #### 算法/论文代码
 - Graphics Replicability Stamp Initiative - 论文作者提供的代码合集: [\[Link\]](https://www.replicabilitystamp.org/)
