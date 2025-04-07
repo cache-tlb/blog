@@ -170,6 +170,7 @@ toc:
 - Gmsh - 用于有限元的网格生成工具，支持 2D / 3D 三角化, 可用于 NavMesh 生成, Probe 四面体网格生成等: [\[Home\]](https://gmsh.info/) | [\[Repo\]](https://gitlab.onelab.info/gmsh/gmsh/) | [\[Code\]](https://gmsh.info/src/gmsh-4.11.1-source.tgz)
 - xatlas - 实用的模型参数化工具，被用于Filament, Godot, Skylicht, UNIGINE, Wicked Engine等: [\[Github\]](https://github.com/jpcy/xatlas)
 - ptex - Disney的模型参数化工具: [\[Home\]](https://www.disneyanimation.com/open-source/ptex/) | [\[Github\]](https://github.com/wdas/ptex)
+- Wykobi - 轻量级计算几何算法库, 无依赖, C++实现: [\[Home\]](https://www.wykobi.com/index.html) | [\[Github\]](https://github.com/ArashPartow/wykobi)
 
 #### 开源游戏
 - Mindustry: A sandbox tower-defense game. [\[Home\]](https://mindustrygame.github.io/)| [\[Github\]](https://github.com/Anuken/Mindustry)
