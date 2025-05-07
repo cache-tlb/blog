@@ -226,6 +226,7 @@ toc:
 - Freeciv - Web版文明II: [\[Home\]](http://www.freeciv.org/) | [\[Github\]](https://github.com/freeciv/freeciv-web)
 - OpenAge - 帝国时代2的游戏引擎开源克隆: [\[Home\]](https://openage.sft.mx/) | [\[Github\]](https://github.com/SFTtech/openage/)
 - 金庸群侠传3D重制版(Unity): [\[Home\]](http://www.jy-new.com) | [\[Github\]](https://github.com/jynew/jynew)
+- 金庸群侠传 C++ 复刻版: [\[Github\]](https://github.com/scarsty/kys-cpp)
 - Wolfenstein 3D源代码: [\[Link\]](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
 - Basic Computer Games: [\[Github\]](https://github.com/coding-horror/basic-computer-games) | [\[Book\]](https://annarchive.com/files/Basic_Computer_Games_Microcomputer_Edition.pdf)
 - OpenRCT2 - 过山车大亨2开源实现: [\[Home\]](https://openrct2.org/) | [\[Github\]](https://github.com/OpenRCT2/OpenRCT2) 
