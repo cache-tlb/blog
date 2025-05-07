@@ -83,6 +83,7 @@ toc:
 - Mojoc - 开源, 纯C的手游引擎: [\[Github\]](https://github.com/scottcgi/Mojoc)
 - crown engine - 数据驱动的游戏引擎, 支持 Lua 脚本: [\[Home\]](https://www.crownengine.org/) | [\[Github\]](https://github.com/crownengine/crown)
 - IOLITE - 基于 Voxel 的引擎: [\[Home\]](https://iolite-engine.com/) | [\[Github\]](https://github.com/MissingDeadlines/iolite)
+- defold - 跨平台游戏引擎, 支持 PS4, PS5, XBox, Switch, Android, iOS, macOS, Linux, Windows, HTML5: [\[Home\]](https://defold.com/) | [\[Github\]](https://github.com/defold/defold)
 - raylib - 极简的游戏引擎，无编辑器，基于 OpenGL: [\[Home\]](https://www.raylib.com/) | [\[Github\]](https://github.com/raysan5/raylib)
 - Lumos Engine - 跨平台的3D游戏引擎，支持2D，使用 Lua 脚本，带编辑器: [\[Github\]](https://github.com/jmorton06/Lumos)
 - Rust Game engine 3D: [\[Home\]](https://rg3d.rs/) | [\[Github\]](https://github.com/rg3dengine/rg3d)
